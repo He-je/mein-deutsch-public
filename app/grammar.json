@@ -1,0 +1,1968 @@
+[
+  {
+    "title": "Nouns, articles & plurals",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Learn every noun with its article and plural: <b>der Tisch - die Tische</b>."
+      },
+      {
+        "type": "heading",
+        "text": "The rule"
+      },
+      {
+        "type": "text",
+        "text": "German nouns begin with a capital letter. Each noun has a grammatical gender: masculine, feminine or neuter. The definite article means “the”; the indefinite article usually means “a/an”. The forms below are nominative."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Gender",
+          "Definite",
+          "Indefinite",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Masculine",
+            "der",
+            "ein",
+            "der Tisch"
+          ],
+          [
+            "Feminine",
+            "die",
+            "eine",
+            "die Tasche"
+          ],
+          [
+            "Neuter",
+            "das",
+            "ein",
+            "das Buch"
+          ],
+          [
+            "Plural",
+            "die",
+            "No article",
+            "Bücher"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Common plural patterns"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Pattern",
+          "Singular",
+          "Plural"
+        ],
+        "rows": [
+          [
+            "-e",
+            "der Tag",
+            "die Tage"
+          ],
+          [
+            "Umlaut + -e",
+            "der Stuhl",
+            "die Stühle"
+          ],
+          [
+            "-(e)n",
+            "die Tasche",
+            "die Taschen"
+          ],
+          [
+            "Umlaut + -er",
+            "das Buch",
+            "die Bücher"
+          ],
+          [
+            "-s",
+            "das Auto",
+            "die Autos"
+          ],
+          [
+            "No ending",
+            "der Lehrer",
+            "die Lehrer"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Examples"
+      },
+      {
+        "type": "example",
+        "de": "Das ist <b>ein Buch</b>. <b>Das Buch</b> ist neu.",
+        "en": "This is a book. The book is new."
+      },
+      {
+        "type": "example",
+        "de": "Ich kaufe <b>Bücher</b>.",
+        "en": "I am buying books."
+      },
+      {
+        "type": "heading",
+        "text": "Watch out"
+      },
+      {
+        "type": "text",
+        "text": "There is no single plural rule for every noun. Grammatical gender is not the same as natural gender: <b>das Mädchen</b> means “the girl”."
+      }
+    ]
+  },
+  {
+    "title": "Subject pronouns, sein & haben",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Use pronouns to identify who is speaking or acting. Learn <b>sein</b> (to be) and <b>haben</b> (to have) early."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Subject",
+          "Meaning",
+          "sein",
+          "haben"
+        ],
+        "rows": [
+          [
+            "ich",
+            "I",
+            "bin",
+            "habe"
+          ],
+          [
+            "du",
+            "you - informal singular",
+            "bist",
+            "hast"
+          ],
+          [
+            "er / sie / es",
+            "he / she / it",
+            "ist",
+            "hat"
+          ],
+          [
+            "wir",
+            "we",
+            "sind",
+            "haben"
+          ],
+          [
+            "ihr",
+            "you - informal plural",
+            "seid",
+            "habt"
+          ],
+          [
+            "sie",
+            "they",
+            "sind",
+            "haben"
+          ],
+          [
+            "Sie",
+            "you - formal",
+            "sind",
+            "haben"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "The rule"
+      },
+      {
+        "type": "text",
+        "text": "The verb changes to match the subject. Use <b>du</b> for one person addressed informally, <b>ihr</b> for more than one, and <b>Sie</b> for formal address. Formal <b>Sie</b> can be singular or plural and is always capitalised."
+      },
+      {
+        "type": "heading",
+        "text": "Examples"
+      },
+      {
+        "type": "example",
+        "de": "Ich <b>bin</b> Studentin.",
+        "en": "I am a university student."
+      },
+      {
+        "type": "example",
+        "de": "Wir <b>haben</b> heute Zeit.",
+        "en": "We have time today."
+      },
+      {
+        "type": "example",
+        "de": "<b>Haben Sie</b> eine Frage?",
+        "en": "Do you have a question? (formal)"
+      },
+      {
+        "type": "example",
+        "de": "Das Buch ist neu. <b>Es</b> ist interessant.",
+        "en": "The book is new. It is interesting."
+      },
+      {
+        "type": "heading",
+        "text": "Watch out"
+      },
+      {
+        "type": "text",
+        "text": "Use <b>sein</b> for age: <b>Ich bin 25 Jahre alt.</b> German says <b>Ich habe Hunger</b> for “I am hungry”. An unmodified profession after sein often has no article: <b>Er ist Arzt.</b>"
+      }
+    ]
+  },
+  {
+    "title": "The present tense",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Use the present tense for current actions, habits and facts. It can also describe future plans when the time is clear."
+      },
+      {
+        "type": "heading",
+        "text": "The rule"
+      },
+      {
+        "type": "text",
+        "text": "For many verbs, remove <b>-en</b> from the infinitive and add a personal ending: <b>lernen → lern-</b>."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Subject",
+          "lernen",
+          "arbeiten",
+          "fahren"
+        ],
+        "rows": [
+          [
+            "ich",
+            "lerne",
+            "arbeite",
+            "fahre"
+          ],
+          [
+            "du",
+            "lernst",
+            "arbeitest",
+            "fährst"
+          ],
+          [
+            "er / sie / es",
+            "lernt",
+            "arbeitet",
+            "fährt"
+          ],
+          [
+            "wir",
+            "lernen",
+            "arbeiten",
+            "fahren"
+          ],
+          [
+            "ihr",
+            "lernt",
+            "arbeitet",
+            "fahrt"
+          ],
+          [
+            "sie / Sie",
+            "lernen",
+            "arbeiten",
+            "fahren"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Patterns to remember"
+      },
+      {
+        "type": "text",
+        "text": "Many stems ending in <b>-t</b> or <b>-d</b> add <b>-e-</b> before <b>-st</b> or <b>-t</b>: <b>du arbeitest</b>. With verbs such as <b>heißen</b>, say <b>du heißt</b>, not “heißst”."
+      },
+      {
+        "type": "text",
+        "text": "Some verbs change their vowel in <b>du</b> and <b>er/sie/es</b>: <b>fahren → fährst/fährt</b>, <b>lesen → liest/liest</b>, <b>essen → isst/isst</b>. Learn these with the verb."
+      },
+      {
+        "type": "heading",
+        "text": "Examples"
+      },
+      {
+        "type": "example",
+        "de": "Ich <b>lerne</b> jeden Tag Deutsch.",
+        "en": "I study German every day."
+      },
+      {
+        "type": "example",
+        "de": "Sie <b>liest</b> gerade eine Nachricht.",
+        "en": "She is reading a message right now."
+      },
+      {
+        "type": "example",
+        "de": "Morgen <b>fahre</b> ich nach Berlin.",
+        "en": "I am going to Berlin tomorrow."
+      },
+      {
+        "type": "heading",
+        "text": "Watch out"
+      },
+      {
+        "type": "text",
+        "text": "German has no separate everyday present-progressive form. <b>Ich lerne</b> can mean “I study” or “I am studying”, depending on context."
+      }
+    ]
+  },
+  {
+    "title": "Statements & questions",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Recognise where the finite verb goes. “Finite” means the verb form that agrees with the subject."
+      },
+      {
+        "type": "heading",
+        "text": "The rule"
+      },
+      {
+        "type": "text",
+        "text": "In an ordinary statement, the finite verb is the <b>second sentence element</b>. The first element can contain several words. If another element comes first, the subject normally follows the verb in simple A1 sentences."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "First element",
+          "Finite verb",
+          "Rest"
+        ],
+        "rows": [
+          [
+            "Ich",
+            "lerne",
+            "heute Deutsch."
+          ],
+          [
+            "Heute",
+            "lerne",
+            "ich Deutsch."
+          ],
+          [
+            "Am Montag",
+            "arbeite",
+            "ich zu Hause."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Question patterns"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Type",
+          "Pattern",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Yes/no",
+            "Verb + subject + rest?",
+            "Wohnst du in Trier?"
+          ],
+          [
+            "W-question",
+            "Question phrase + verb + rest?",
+            "Wo wohnst du?"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "<b>wer</b> = who; <b>was</b> = what; <b>wo</b> = where; <b>woher</b> = where from; <b>wohin</b> = where to; <b>wann</b> = when; <b>wie</b> = how; <b>warum</b> = why."
+      },
+      {
+        "type": "heading",
+        "text": "Examples"
+      },
+      {
+        "type": "example",
+        "de": "Heute <b>lerne</b> ich Deutsch.",
+        "en": "Today I am studying German."
+      },
+      {
+        "type": "example",
+        "de": "<b>Hast</b> du Zeit?",
+        "en": "Do you have time?"
+      },
+      {
+        "type": "example",
+        "de": "Woher <b>kommst</b> du?",
+        "en": "Where are you from?"
+      },
+      {
+        "type": "heading",
+        "text": "Watch out"
+      },
+      {
+        "type": "text",
+        "text": "German does not add “do/does” to form these questions. Say <b>Arbeitest du heute?</b> Second position does not mean second word: <b>Am Montag</b> is one element."
+      }
+    ]
+  },
+  {
+    "title": "Nominative & accusative",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Use the nominative for the subject. Many common verbs take an accusative object: <b>haben, kaufen, brauchen, sehen</b>."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Gender / number",
+          "Nominative",
+          "Accusative"
+        ],
+        "rows": [
+          [
+            "Masculine",
+            "der / ein Mann",
+            "den / einen Mann"
+          ],
+          [
+            "Feminine",
+            "die / eine Frau",
+            "die / eine Frau"
+          ],
+          [
+            "Neuter",
+            "das / ein Kind",
+            "das / ein Kind"
+          ],
+          [
+            "Plural",
+            "die Kinder / Kinder",
+            "die Kinder / Kinder"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "The rule"
+      },
+      {
+        "type": "text",
+        "text": "With these articles, only the masculine form changes between nominative and accusative. Ask <b>wer?</b> to identify the subject and <b>wen oder was?</b> to identify an accusative object."
+      },
+      {
+        "type": "heading",
+        "text": "Examples"
+      },
+      {
+        "type": "example",
+        "de": "<b>Der Mann</b> kauft <b>einen Kaffee</b>.",
+        "en": "The man buys a coffee."
+      },
+      {
+        "type": "example",
+        "de": "Ich brauche <b>eine Tasche</b>.",
+        "en": "I need a bag."
+      },
+      {
+        "type": "example",
+        "de": "Es gibt hier <b>einen Supermarkt</b>.",
+        "en": "There is a supermarket here."
+      },
+      {
+        "type": "heading",
+        "text": "Useful pattern: es gibt + accusative"
+      },
+      {
+        "type": "text",
+        "text": "<b>Es gibt</b> means “there is / there are”. The noun phrase that follows is accusative: <b>Es gibt einen Park.</b> / <b>Es gibt zwei Parks.</b>"
+      },
+      {
+        "type": "heading",
+        "text": "Watch out"
+      },
+      {
+        "type": "text",
+        "text": "<b>Sein</b> does not take an accusative object. Say <b>Er ist ein Lehrer</b> when using an article, not “einen Lehrer”. Cases belong to phrases, not fixed positions: the first noun is not always the subject."
+      }
+    ]
+  },
+  {
+    "title": "Possessives",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Use possessive articles before a noun to say who something belongs to: my, your, his, her, our and their."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Owner",
+          "Possessive stem",
+          "Example"
+        ],
+        "rows": [
+          [
+            "ich",
+            "mein-",
+            "mein Buch"
+          ],
+          [
+            "du",
+            "dein-",
+            "dein Buch"
+          ],
+          [
+            "er / es",
+            "sein-",
+            "sein Buch"
+          ],
+          [
+            "sie - she",
+            "ihr-",
+            "ihr Buch"
+          ],
+          [
+            "wir",
+            "unser-",
+            "unser Buch"
+          ],
+          [
+            "ihr",
+            "euer-",
+            "euer Buch"
+          ],
+          [
+            "sie / Sie",
+            "ihr- / Ihr-",
+            "ihr Buch / Ihr Buch"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "The rule"
+      },
+      {
+        "type": "text",
+        "text": "The owner determines the stem. The noun that follows determines the ending through gender, number and case. Possessives follow the pattern of <b>ein</b>, with an additional plural form."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Nominative",
+          "Accusative"
+        ],
+        "rows": [
+          [
+            "mein Bruder",
+            "meinen Bruder"
+          ],
+          [
+            "meine Schwester",
+            "meine Schwester"
+          ],
+          [
+            "mein Kind",
+            "mein Kind"
+          ],
+          [
+            "meine Eltern",
+            "meine Eltern"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Examples"
+      },
+      {
+        "type": "example",
+        "de": "Ich besuche <b>meinen Bruder</b>.",
+        "en": "I am visiting my brother."
+      },
+      {
+        "type": "example",
+        "de": "Ist das <b>eure Tasche</b>?",
+        "en": "Is that your bag? (informal plural)"
+      },
+      {
+        "type": "heading",
+        "text": "Watch out"
+      },
+      {
+        "type": "text",
+        "text": "<b>Euer</b> normally loses its second <b>e</b> when an ending is added: <b>eure, euren, eurem</b>. Formal <b>Ihr</b> is capitalised. Dative forms include <b>meinem, meiner, meinem, meinen</b>."
+      }
+    ]
+  },
+  {
+    "title": "Negation: nicht & kein",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Choose the negative form according to what you are negating."
+      },
+      {
+        "type": "heading",
+        "text": "The rule"
+      },
+      {
+        "type": "text",
+        "text": "Use <b>kein</b> to negate a noun that would have <b>ein/eine</b> or no article. Use <b>nicht</b> to negate an adjective, a particular phrase or an action/statement."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Positive",
+          "Negative"
+        ],
+        "rows": [
+          [
+            "Ich habe ein Auto.",
+            "Ich habe kein Auto."
+          ],
+          [
+            "Ich habe Zeit.",
+            "Ich habe keine Zeit."
+          ],
+          [
+            "Der Kaffee ist heiß.",
+            "Der Kaffee ist nicht heiß."
+          ],
+          [
+            "Ich komme heute.",
+            "Ich komme heute nicht."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "The forms of kein"
+      },
+      {
+        "type": "text",
+        "text": "<b>Kein</b> follows the endings of <b>ein</b> and also has plural forms: <b>kein Mann, keine Frau, kein Kind, keine Bücher</b>. Accusative masculine: <b>keinen Mann</b>."
+      },
+      {
+        "type": "heading",
+        "text": "Where does nicht go?"
+      },
+      {
+        "type": "text",
+        "text": "Put it directly before a specific adjective or phrase you want to negate. When negating the whole action, it often comes later, but before a final infinitive or separable prefix."
+      },
+      {
+        "type": "example",
+        "de": "Ich fahre <b>nicht nach Berlin</b>, sondern nach Bonn.",
+        "en": "I am not going to Berlin, but to Bonn."
+      },
+      {
+        "type": "example",
+        "de": "Ich kann heute <b>nicht kommen</b>.",
+        "en": "I cannot come today."
+      },
+      {
+        "type": "example",
+        "de": "Ich rufe heute <b>nicht an</b>.",
+        "en": "I am not calling today."
+      },
+      {
+        "type": "example",
+        "de": "Ich habe <b>keine Zeit</b>.",
+        "en": "I do not have time."
+      },
+      {
+        "type": "heading",
+        "text": "Watch out"
+      },
+      {
+        "type": "text",
+        "text": "Do not learn “nicht always goes at the end”. Its position depends on scope and sentence structure. Compare <b>nicht teuer</b> (not expensive) and <b>keinen Kaffee</b> (no coffee)."
+      }
+    ]
+  },
+  {
+    "title": "Modal verbs & möchte",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Express ability, permission, obligation and intention. Use <b>möchte</b> for a polite wish."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Subject",
+          "können",
+          "müssen",
+          "dürfen",
+          "wollen",
+          "möchte"
+        ],
+        "rows": [
+          [
+            "ich",
+            "kann",
+            "muss",
+            "darf",
+            "will",
+            "möchte"
+          ],
+          [
+            "du",
+            "kannst",
+            "musst",
+            "darfst",
+            "willst",
+            "möchtest"
+          ],
+          [
+            "er/sie/es",
+            "kann",
+            "muss",
+            "darf",
+            "will",
+            "möchte"
+          ],
+          [
+            "wir",
+            "können",
+            "müssen",
+            "dürfen",
+            "wollen",
+            "möchten"
+          ],
+          [
+            "ihr",
+            "könnt",
+            "müsst",
+            "dürft",
+            "wollt",
+            "möchtet"
+          ],
+          [
+            "sie/Sie",
+            "können",
+            "müssen",
+            "dürfen",
+            "wollen",
+            "möchten"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "The rule"
+      },
+      {
+        "type": "text",
+        "text": "The modal verb is finite and takes second position in a statement. The main verb stays in the infinitive at the end, without <b>zu</b>."
+      },
+      {
+        "type": "example",
+        "de": "Ich <b>kann</b> gut <b>schwimmen</b>.",
+        "en": "I can swim well."
+      },
+      {
+        "type": "example",
+        "de": "Wir <b>müssen</b> heute <b>arbeiten</b>.",
+        "en": "We have to work today."
+      },
+      {
+        "type": "example",
+        "de": "Ich <b>möchte</b> einen Tee <b>trinken</b>.",
+        "en": "I would like to drink a tea."
+      },
+      {
+        "type": "heading",
+        "text": "Two more useful verbs"
+      },
+      {
+        "type": "text",
+        "text": "<b>sollen</b> = be supposed to / should: <b>ich soll, du sollst, er soll, wir sollen, ihr sollt, sie sollen</b>.<br/><b>mögen</b> = like: <b>ich mag, du magst, er mag, wir mögen, ihr mögt, sie mögen</b>. <b>Ich mag Tee.</b> = I like tea."
+      },
+      {
+        "type": "heading",
+        "text": "Watch out"
+      },
+      {
+        "type": "text",
+        "text": "<b>Du musst nicht kommen.</b> = You do not have to come.<br/><b>Du darfst nicht kommen.</b> = You must not come.<br/><b>Möchte</b> is a polite-wish form of <b>mögen</b>; learn it as a useful A1 pattern."
+      }
+    ]
+  },
+  {
+    "title": "Separable verbs",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Some verbs have a prefix that separates in a simple main clause: <b>anrufen, aufstehen, einkaufen, mitkommen</b>."
+      },
+      {
+        "type": "heading",
+        "text": "The rule"
+      },
+      {
+        "type": "text",
+        "text": "Conjugate the verb and put it in the normal finite-verb position. Move the separable prefix to the end of the clause."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Infinitive",
+          "Main clause",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "aufstehen",
+            "Ich stehe um sieben auf.",
+            "I get up at seven."
+          ],
+          [
+            "anrufen",
+            "Ich rufe dich morgen an.",
+            "I will call you tomorrow."
+          ],
+          [
+            "einkaufen",
+            "Wir kaufen heute ein.",
+            "We are shopping today."
+          ],
+          [
+            "mitkommen",
+            "Kommst du mit?",
+            "Are you coming along?"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "With a modal verb"
+      },
+      {
+        "type": "text",
+        "text": "Keep the infinitive together at the end. Only the modal verb is conjugated."
+      },
+      {
+        "type": "example",
+        "de": "Ich muss früh <b>aufstehen</b>.",
+        "en": "I have to get up early."
+      },
+      {
+        "type": "example",
+        "de": "Kannst du mich morgen <b>anrufen</b>?",
+        "en": "Can you call me tomorrow?"
+      },
+      {
+        "type": "heading",
+        "text": "The sentence frame"
+      },
+      {
+        "type": "example",
+        "de": "Ich <b>rufe</b> meine Schwester heute Abend <b>an</b>.",
+        "en": "I am calling my sister this evening."
+      },
+      {
+        "type": "text",
+        "text": "The two verb parts form a frame around the other information. A similar frame appears with the perfect tense."
+      },
+      {
+        "type": "heading",
+        "text": "Watch out"
+      },
+      {
+        "type": "text",
+        "text": "Not every prefix separates. Common inseparable prefixes include <b>be-, ver-, er-, ent-, emp-, ge-, miss-, zer-</b>: <b>Ich besuche meine Eltern.</b> Learn whether a new verb is separable."
+      }
+    ]
+  },
+  {
+    "title": "Requests & the imperative",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Use the imperative for instructions, invitations and requests. Add <b>bitte</b> for politeness."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Address",
+          "Pattern",
+          "Example"
+        ],
+        "rows": [
+          [
+            "du",
+            "Often the stem; no du",
+            "Komm bitte!"
+          ],
+          [
+            "ihr",
+            "Present ihr form; no ihr",
+            "Kommt bitte!"
+          ],
+          [
+            "Sie",
+            "Verb + Sie",
+            "Kommen Sie bitte!"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "The rule"
+      },
+      {
+        "type": "text",
+        "text": "For <b>du</b>, many verbs allow a final <b>-e</b>: <b>Komm!</b> or <b>Komme!</b> Some need it, such as <b>Arbeite!</b> Irregular verbs need special attention."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Infinitive",
+          "du imperative",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "lesen",
+            "Lies bitte!",
+            "Please read!"
+          ],
+          [
+            "nehmen",
+            "Nimm bitte Platz!",
+            "Please take a seat!"
+          ],
+          [
+            "fahren",
+            "Fahr vorsichtig!",
+            "Drive carefully!"
+          ],
+          [
+            "sein",
+            "Sei ruhig!",
+            "Be quiet!"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Examples"
+      },
+      {
+        "type": "example",
+        "de": "<b>Öffnen Sie</b> bitte das Fenster.",
+        "en": "Please open the window. (formal)"
+      },
+      {
+        "type": "example",
+        "de": "<b>Ruf</b> mich bitte <b>an</b>!",
+        "en": "Please call me! (informal singular)"
+      },
+      {
+        "type": "example",
+        "de": "<b>Seid</b> bitte pünktlich!",
+        "en": "Please be on time! (informal plural)"
+      },
+      {
+        "type": "heading",
+        "text": "A softer request"
+      },
+      {
+        "type": "example",
+        "de": "<b>Können Sie</b> bitte langsamer sprechen?",
+        "en": "Can you speak more slowly, please?"
+      },
+      {
+        "type": "heading",
+        "text": "Watch out"
+      },
+      {
+        "type": "text",
+        "text": "Omit <b>du</b> and <b>ihr</b> in the normal imperative pattern; keep <b>Sie</b> in the formal form. Special forms of sein: <b>sei / seid / seien Sie</b>."
+      }
+    ]
+  },
+  {
+    "title": "Dative essentials",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Recognise the dative after common verbs and prepositions. With “give”, it often identifies the recipient."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Gender / number",
+          "Definite",
+          "Indefinite"
+        ],
+        "rows": [
+          [
+            "Masculine",
+            "dem Mann",
+            "einem Mann"
+          ],
+          [
+            "Feminine",
+            "der Frau",
+            "einer Frau"
+          ],
+          [
+            "Neuter",
+            "dem Kind",
+            "einem Kind"
+          ],
+          [
+            "Plural",
+            "den Kindern",
+            "No indefinite plural"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "The rule"
+      },
+      {
+        "type": "text",
+        "text": "Learn the case with the verb or preposition. Common dative verbs include <b>helfen</b> (help), <b>danken</b> (thank) and <b>gefallen</b> (appeal to / be liked by)."
+      },
+      {
+        "type": "heading",
+        "text": "Examples"
+      },
+      {
+        "type": "example",
+        "de": "Ich helfe <b>dem Kind</b>.",
+        "en": "I help the child."
+      },
+      {
+        "type": "example",
+        "de": "Das Buch gefällt <b>mir</b>.",
+        "en": "I like the book. Literally: the book appeals to me."
+      },
+      {
+        "type": "example",
+        "de": "Ich gebe <b>der Frau</b> einen Stift.",
+        "en": "I give the woman a pen."
+      },
+      {
+        "type": "text",
+        "text": "In the last example, <b>der Frau</b> is the dative recipient and <b>einen Stift</b> is the accusative thing given."
+      },
+      {
+        "type": "heading",
+        "text": "Common dative prepositions"
+      },
+      {
+        "type": "text",
+        "text": "<b>mit</b> (with), <b>bei</b> (at/with), <b>von</b> (from/of), <b>zu</b> (to), <b>aus</b> (from/out of), <b>nach</b> (to/after), <b>seit</b> (since/for)."
+      },
+      {
+        "type": "example",
+        "de": "Ich fahre mit <b>dem Bus</b>.",
+        "en": "I travel by bus."
+      },
+      {
+        "type": "heading",
+        "text": "Watch out"
+      },
+      {
+        "type": "text",
+        "text": "Dative plural nouns usually add <b>-n</b>: <b>die Kinder → mit den Kindern</b>. Do not add another -n if the plural already ends in -n, or if it ends in -s: <b>mit den Frauen / mit den Autos</b>."
+      }
+    ]
+  },
+  {
+    "title": "Object pronouns",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Replace a known person or thing with a pronoun. Its form depends on the case required by the sentence."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Nominative",
+          "Accusative",
+          "Dative"
+        ],
+        "rows": [
+          [
+            "ich",
+            "mich",
+            "mir"
+          ],
+          [
+            "du",
+            "dich",
+            "dir"
+          ],
+          [
+            "er",
+            "ihn",
+            "ihm"
+          ],
+          [
+            "sie",
+            "sie",
+            "ihr"
+          ],
+          [
+            "es",
+            "es",
+            "ihm"
+          ],
+          [
+            "wir",
+            "uns",
+            "uns"
+          ],
+          [
+            "ihr",
+            "euch",
+            "euch"
+          ],
+          [
+            "sie",
+            "sie",
+            "ihnen"
+          ],
+          [
+            "Sie",
+            "Sie",
+            "Ihnen"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "The rule"
+      },
+      {
+        "type": "text",
+        "text": "Use an accusative pronoun with an accusative verb or preposition, and a dative pronoun with a dative verb or preposition. A thing can be replaced by a pronoun matching its grammatical gender."
+      },
+      {
+        "type": "heading",
+        "text": "Examples"
+      },
+      {
+        "type": "example",
+        "de": "Ich sehe Anna. Ich sehe <b>sie</b>.",
+        "en": "I see Anna. I see her."
+      },
+      {
+        "type": "example",
+        "de": "Ich helfe Anna. Ich helfe <b>ihr</b>.",
+        "en": "I help Anna. I help her."
+      },
+      {
+        "type": "example",
+        "de": "Der Kaffee ist gut. Ich trinke <b>ihn</b>.",
+        "en": "The coffee is good. I drink it."
+      },
+      {
+        "type": "example",
+        "de": "Das ist für <b>dich</b>. Ich komme mit <b>dir</b>.",
+        "en": "This is for you. I am coming with you."
+      },
+      {
+        "type": "heading",
+        "text": "Watch out"
+      },
+      {
+        "type": "text",
+        "text": "<b>Für</b> takes accusative; <b>mit</b> takes dative. Both <b>mich</b> and <b>mir</b> can translate as “me”. Formal <b>Sie</b> and <b>Ihnen</b> stay capitalised."
+      }
+    ]
+  },
+  {
+    "title": "Place & direction",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Distinguish where something is (<b>wo?</b>) from its destination (<b>wohin?</b>). Learn common travel phrases as units."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Use",
+          "German",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "Location",
+            "in Berlin / in Deutschland",
+            "in Berlin / Germany"
+          ],
+          [
+            "Destination, no article",
+            "nach Berlin / nach Deutschland",
+            "to Berlin / Germany"
+          ],
+          [
+            "To a person",
+            "zu meiner Freundin",
+            "to my friend’s place"
+          ],
+          [
+            "Origin",
+            "aus Berlin / aus der Türkei",
+            "from Berlin / Turkey"
+          ],
+          [
+            "Home",
+            "zu Hause / nach Hause",
+            "at home / homeward"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Two-way prepositions: the basic contrast"
+      },
+      {
+        "type": "text",
+        "text": "<b>in, an, auf, unter, über, vor, hinter, neben, zwischen</b> can take dative or accusative. For the basic spatial pattern: use <b>dative</b> for location, and <b>accusative</b> for a destination or change of spatial relation."
+      },
+      {
+        "type": "example",
+        "de": "Ich bin <b>im Park</b>.",
+        "en": "I am in the park. (location; in dem)"
+      },
+      {
+        "type": "example",
+        "de": "Ich gehe <b>in den Park</b>.",
+        "en": "I am going into/to the park. (destination)"
+      },
+      {
+        "type": "example",
+        "de": "Ich laufe <b>im Park</b>.",
+        "en": "I am running in the park. (within a location)"
+      },
+      {
+        "type": "heading",
+        "text": "Common contractions"
+      },
+      {
+        "type": "text",
+        "text": "<b>im</b> = in dem; <b>ins</b> = in das; <b>am</b> = an dem; <b>ans</b> = an das; <b>zum</b> = zu dem; <b>zur</b> = zu der; <b>beim</b> = bei dem; <b>vom</b> = von dem."
+      },
+      {
+        "type": "heading",
+        "text": "Watch out"
+      },
+      {
+        "type": "text",
+        "text": "Movement alone does not mean accusative. <b>Zu</b> always takes dative: <b>zum Bahnhof</b>. Countries with articles use other patterns: <b>in die Türkei</b> (to), <b>in der Türkei</b> (in)."
+      }
+    ]
+  },
+  {
+    "title": "Time & duration",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Use a time phrase to say when, how often or for how long something happens."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Use",
+          "Pattern",
+          "Example / meaning"
+        ],
+        "rows": [
+          [
+            "Clock time",
+            "um",
+            "um acht Uhr / at eight"
+          ],
+          [
+            "Day or date",
+            "am",
+            "am Montag / on Monday"
+          ],
+          [
+            "Month or season",
+            "im",
+            "im Mai / in May"
+          ],
+          [
+            "From ... to ...",
+            "von ... bis ...",
+            "von neun bis zwölf / nine to twelve"
+          ],
+          [
+            "Before / after",
+            "vor / nach + dative",
+            "nach dem Kurs / after the course"
+          ],
+          [
+            "Continuing since/for",
+            "seit + dative",
+            "seit einem Jahr / for a year"
+          ],
+          [
+            "Ago",
+            "vor + dative",
+            "vor einem Jahr / a year ago"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "The rule"
+      },
+      {
+        "type": "text",
+        "text": "Use the present tense with <b>seit</b> when a situation started in the past and still continues. English often uses “have been” or “have lived” in the same situation."
+      },
+      {
+        "type": "heading",
+        "text": "Examples"
+      },
+      {
+        "type": "example",
+        "de": "Ich wohne <b>seit einem Jahr</b> in Trier.",
+        "en": "I have lived in Trier for a year."
+      },
+      {
+        "type": "example",
+        "de": "Der Kurs beginnt <b>um neun Uhr</b>.",
+        "en": "The course starts at nine o’clock."
+      },
+      {
+        "type": "example",
+        "de": "Ich lerne <b>jeden Tag</b>. Ich bleibe <b>zwei Tage</b>.",
+        "en": "I study every day. I am staying for two days."
+      },
+      {
+        "type": "heading",
+        "text": "Frequency"
+      },
+      {
+        "type": "text",
+        "text": "<b>immer</b> = always; <b>oft</b> = often; <b>manchmal</b> = sometimes; <b>selten</b> = rarely; <b>nie</b> = never. <b>Ich koche oft.</b> = I often cook."
+      },
+      {
+        "type": "heading",
+        "text": "Watch out"
+      },
+      {
+        "type": "text",
+        "text": "No preposition is needed with <b>heute, morgen, gestern</b> or <b>jeden Tag</b>. Compare <b>am Montag</b> (on Monday) and <b>montags</b> (on Mondays)."
+      }
+    ]
+  },
+  {
+    "title": "Adjectives & preferences",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Describe people and things, and say what you like doing. Start with adjectives after <b>sein</b> and common everyday comparisons."
+      },
+      {
+        "type": "heading",
+        "text": "The rule"
+      },
+      {
+        "type": "text",
+        "text": "An adjective after <b>sein</b> does not take a gender or plural ending. An adjective describing how an action is performed also stays unchanged in these basic patterns."
+      },
+      {
+        "type": "example",
+        "de": "Der Kaffee ist <b>heiß</b>. Die Suppe ist <b>heiß</b>.",
+        "en": "The coffee is hot. The soup is hot."
+      },
+      {
+        "type": "example",
+        "de": "Die Bücher sind <b>interessant</b>.",
+        "en": "The books are interesting."
+      },
+      {
+        "type": "example",
+        "de": "Sie spricht <b>langsam</b>.",
+        "en": "She speaks slowly."
+      },
+      {
+        "type": "heading",
+        "text": "Liking things and activities"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Pattern",
+          "Example",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "mögen + noun",
+            "Ich mag Musik.",
+            "I like music."
+          ],
+          [
+            "Verb + gern",
+            "Ich höre gern Musik.",
+            "I like listening to music."
+          ],
+          [
+            "lieber",
+            "Ich trinke lieber Tee.",
+            "I prefer drinking tea."
+          ],
+          [
+            "am liebsten",
+            "Am liebsten trinke ich Wasser.",
+            "I like drinking water best."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Useful forms to recognise"
+      },
+      {
+        "type": "text",
+        "text": "<b>gut - besser - am besten</b> = good/well - better - best.<br/><b>viel - mehr - am meisten</b> = much/a lot - more - most.<br/><b>gern - lieber - am liebsten</b> = like doing - prefer - like best."
+      },
+      {
+        "type": "example",
+        "de": "Dieses Zimmer ist <b>größer als</b> mein Zimmer.",
+        "en": "This room is bigger than my room."
+      },
+      {
+        "type": "heading",
+        "text": "Watch out"
+      },
+      {
+        "type": "text",
+        "text": "Adjectives before a noun need endings: <b>ein kleiner Tisch, eine kleine Tasche</b>. Recognise common phrases at this stage; full adjective declension and comparison are later topics."
+      }
+    ]
+  },
+  {
+    "title": "Joining simple sentences",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Connect short statements without losing the main-clause word order."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Connector",
+          "Meaning",
+          "Example"
+        ],
+        "rows": [
+          [
+            "und",
+            "and",
+            "Ich lerne und du arbeitest."
+          ],
+          [
+            "aber",
+            "but",
+            "Ich lerne, aber ich bin müde."
+          ],
+          [
+            "oder",
+            "or",
+            "Kommst du oder bleibst du hier?"
+          ],
+          [
+            "denn",
+            "because",
+            "Ich bleibe hier, denn ich bin müde."
+          ],
+          [
+            "sondern",
+            "but rather",
+            "Das ist kein Tee, sondern Kaffee."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "The rule"
+      },
+      {
+        "type": "text",
+        "text": "These coordinating conjunctions do not occupy the first position of the following clause. The finite verb keeps its normal main-clause position. Use a comma before <b>aber, denn</b> and <b>sondern</b>. Use <b>sondern</b> to replace something just negated."
+      },
+      {
+        "type": "heading",
+        "text": "Examples"
+      },
+      {
+        "type": "example",
+        "de": "Ich trinke Tee, <b>aber</b> meine Schwester trinkt Kaffee.",
+        "en": "I drink tea, but my sister drinks coffee."
+      },
+      {
+        "type": "example",
+        "de": "Ich gehe nach Hause, <b>denn</b> ich bin müde.",
+        "en": "I am going home because I am tired."
+      },
+      {
+        "type": "example",
+        "de": "Ich kaufe Brot <b>und</b> Milch.",
+        "en": "I am buying bread and milk."
+      },
+      {
+        "type": "heading",
+        "text": "Then: dann"
+      },
+      {
+        "type": "text",
+        "text": "<b>Dann</b> is an adverb. When it starts a statement, it takes first position and the finite verb follows."
+      },
+      {
+        "type": "example",
+        "de": "Ich frühstücke. <b>Dann gehe</b> ich zur Arbeit.",
+        "en": "I have breakfast. Then I go to work."
+      },
+      {
+        "type": "heading",
+        "text": "Watch out"
+      },
+      {
+        "type": "text",
+        "text": "Do not transfer this pattern to <b>weil</b>. Unlike <b>denn</b>, weil introduces a subordinate clause with a verb-final pattern. That is a separate later topic in this review sequence."
+      }
+    ]
+  },
+  {
+    "title": "The perfect tense: building it",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Use the perfect tense (<b>Perfekt</b>) to talk about completed past events in everyday conversation."
+      },
+      {
+        "type": "heading",
+        "text": "The rule"
+      },
+      {
+        "type": "text",
+        "text": "Use a present-tense form of <b>haben</b> or <b>sein</b> plus a past participle (<b>Partizip II</b>). In a statement, the auxiliary is in second position and the participle is at the end."
+      },
+      {
+        "type": "example",
+        "de": "Ich <b>habe</b> gestern Deutsch <b>gelernt</b>.",
+        "en": "I studied German yesterday."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Verb type",
+          "Participle pattern",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Regular",
+            "ge- + stem + -t",
+            "lernen → gelernt"
+          ],
+          [
+            "Regular stem in -t/-d",
+            "Often ge- + stem + -et",
+            "arbeiten → gearbeitet"
+          ],
+          [
+            "Separable regular",
+            "Prefix + ge- + stem + -t",
+            "einkaufen → eingekauft"
+          ],
+          [
+            "Inseparable regular",
+            "No ge-",
+            "besuchen → besucht"
+          ],
+          [
+            "Ending in -ieren",
+            "No ge-; ending -t",
+            "studieren → studiert"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Examples"
+      },
+      {
+        "type": "example",
+        "de": "Wir <b>haben</b> gestern <b>eingekauft</b>.",
+        "en": "We went shopping yesterday."
+      },
+      {
+        "type": "example",
+        "de": "Sie <b>hat</b> in Bonn <b>studiert</b>.",
+        "en": "She studied at university in Bonn."
+      },
+      {
+        "type": "example",
+        "de": "<b>Hast</b> du heute <b>gearbeitet</b>?",
+        "en": "Did you work today?"
+      },
+      {
+        "type": "heading",
+        "text": "The auxiliary changes; the participle does not"
+      },
+      {
+        "type": "text",
+        "text": "<b>ich habe gelernt, du hast gelernt, wir haben gelernt</b>. The auxiliary agrees with the subject; the participle stays the same."
+      },
+      {
+        "type": "heading",
+        "text": "Watch out"
+      },
+      {
+        "type": "text",
+        "text": "The pattern <b>ge-...-t</b> is not universal. Strong and mixed verbs have forms such as <b>gesehen</b> and <b>gebracht</b>. Learn the participle and auxiliary with each verb."
+      }
+    ]
+  },
+  {
+    "title": "The perfect tense: haben or sein?",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Learn common past forms as a pair: <b>hat gemacht</b>, <b>ist gegangen</b>. This is more reliable than guessing."
+      },
+      {
+        "type": "heading",
+        "text": "The rule"
+      },
+      {
+        "type": "text",
+        "text": "Most verbs use <b>haben</b>. Many intransitive verbs of travel or change of state use <b>sein</b>. <b>Sein</b> and <b>bleiben</b> also use sein. Not every movement verb takes sein."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Infinitive",
+          "Perfect: er/sie",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "machen",
+            "hat gemacht",
+            "did / made"
+          ],
+          [
+            "essen",
+            "hat gegessen",
+            "ate"
+          ],
+          [
+            "trinken",
+            "hat getrunken",
+            "drank"
+          ],
+          [
+            "sehen",
+            "hat gesehen",
+            "saw"
+          ],
+          [
+            "lesen",
+            "hat gelesen",
+            "read"
+          ],
+          [
+            "bringen",
+            "hat gebracht",
+            "brought"
+          ],
+          [
+            "gehen",
+            "ist gegangen",
+            "went"
+          ],
+          [
+            "fahren",
+            "ist gefahren",
+            "travelled by vehicle"
+          ],
+          [
+            "kommen",
+            "ist gekommen",
+            "came"
+          ],
+          [
+            "aufstehen",
+            "ist aufgestanden",
+            "got up"
+          ],
+          [
+            "bleiben",
+            "ist geblieben",
+            "stayed"
+          ],
+          [
+            "sein",
+            "ist gewesen",
+            "was / has been"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Examples"
+      },
+      {
+        "type": "example",
+        "de": "Wir <b>sind</b> nach Köln <b>gefahren</b>.",
+        "en": "We went to Cologne."
+      },
+      {
+        "type": "example",
+        "de": "Ich <b>habe</b> einen Kaffee <b>getrunken</b>.",
+        "en": "I drank a coffee."
+      },
+      {
+        "type": "heading",
+        "text": "Watch out"
+      },
+      {
+        "type": "text",
+        "text": "Choose the auxiliary for the meaning and construction. <b>Ich bin nach Bonn gefahren</b> describes travel; <b>Ich habe das Auto gefahren</b> has a direct object and uses haben."
+      }
+    ]
+  },
+  {
+    "title": "Talking about the past: war & hatte",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "In everyday German, the simple past of <b>sein</b> and <b>haben</b> is very common, even when other verbs use the perfect tense."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Subject",
+          "sein → war",
+          "haben → hatte"
+        ],
+        "rows": [
+          [
+            "ich",
+            "war",
+            "hatte"
+          ],
+          [
+            "du",
+            "warst",
+            "hattest"
+          ],
+          [
+            "er / sie / es",
+            "war",
+            "hatte"
+          ],
+          [
+            "wir",
+            "waren",
+            "hatten"
+          ],
+          [
+            "ihr",
+            "wart",
+            "hattet"
+          ],
+          [
+            "sie / Sie",
+            "waren",
+            "hatten"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "The rule"
+      },
+      {
+        "type": "text",
+        "text": "These are finite past-tense verbs. Do not add a second auxiliary. Use them for past states, locations and possession."
+      },
+      {
+        "type": "heading",
+        "text": "Examples"
+      },
+      {
+        "type": "example",
+        "de": "Gestern <b>war</b> ich müde.",
+        "en": "Yesterday I was tired."
+      },
+      {
+        "type": "example",
+        "de": "Wir <b>waren</b> am Wochenende in Berlin.",
+        "en": "We were in Berlin at the weekend."
+      },
+      {
+        "type": "example",
+        "de": "Ich <b>hatte</b> gestern keine Zeit.",
+        "en": "I did not have time yesterday."
+      },
+      {
+        "type": "example",
+        "de": "<b>Warst</b> du zu Hause?",
+        "en": "Were you at home?"
+      },
+      {
+        "type": "heading",
+        "text": "Present and past"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Present",
+          "Past"
+        ],
+        "rows": [
+          [
+            "Ich bin krank.",
+            "Ich war krank."
+          ],
+          [
+            "Wir haben einen Termin.",
+            "Wir hatten einen Termin."
+          ],
+          [
+            "Bist du müde?",
+            "Warst du müde?"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Watch out"
+      },
+      {
+        "type": "text",
+        "text": "Use <b>ich hatte</b>, not “ich habe hatte”. Perfect forms such as <b>ich bin gewesen</b> are also grammatical, but war and hatte are especially useful for simple everyday accounts."
+      }
+    ]
+  },
+  {
+    "title": "Numbers, dates & everyday patterns",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Use numbers for quantities, prices and time. Use ordinal numbers for dates."
+      },
+      {
+        "type": "heading",
+        "text": "Building numbers"
+      },
+      {
+        "type": "text",
+        "text": "From 21 to 99, say the unit before the ten: <b>einundzwanzig</b> (21), <b>vierunddreißig</b> (34). Notice <b>sechzehn</b> (16), <b>siebzehn</b> (17), <b>dreißig</b> (30), <b>sechzig</b> (60), <b>siebzig</b> (70)."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Use",
+          "German",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "Number alone",
+            "eins",
+            "one"
+          ],
+          [
+            "Before a noun",
+            "ein Euro / eine Stunde",
+            "one euro / one hour"
+          ],
+          [
+            "Price",
+            "zwei Euro fünfzig",
+            "two euros fifty"
+          ],
+          [
+            "Clock time",
+            "acht Uhr dreißig",
+            "eight thirty"
+          ],
+          [
+            "Everyday clock time",
+            "halb neun",
+            "half past eight"
+          ],
+          [
+            "Quarter-hour",
+            "Viertel nach acht",
+            "quarter past eight"
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Dates"
+      },
+      {
+        "type": "text",
+        "text": "Many ordinals from 1 to 19 end in <b>-te</b>; from 20 onward use <b>-ste</b>. Key irregular forms: <b>erste, dritte, siebte, achte</b>. After <b>am</b>, use a dative ending."
+      },
+      {
+        "type": "example",
+        "de": "Heute ist <b>der dritte Mai</b>.",
+        "en": "Today is the third of May."
+      },
+      {
+        "type": "example",
+        "de": "Der Termin ist <b>am dritten Mai</b>.",
+        "en": "The appointment is on the third of May."
+      },
+      {
+        "type": "heading",
+        "text": "Useful fixed patterns"
+      },
+      {
+        "type": "example",
+        "de": "<b>Wie viel</b> kostet das? / <b>Wie viele</b> Bücher hast du?",
+        "en": "How much does that cost? / How many books do you have?"
+      },
+      {
+        "type": "example",
+        "de": "Es ist kalt. / Es regnet.",
+        "en": "It is cold. / It is raining."
+      },
+      {
+        "type": "heading",
+        "text": "Watch out"
+      },
+      {
+        "type": "text",
+        "text": "<b>Halb neun</b> means 8:30, not 9:30. Use <b>wie viele</b> with countable plural nouns. In weather expressions, keep the subject <b>es</b>."
+      }
+    ]
+  }
+]

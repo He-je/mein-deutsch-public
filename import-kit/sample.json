@@ -1,0 +1,79 @@
+{
+  "type": "mein-deutsch-study",
+  "version": 1,
+  "id": "demo-lernen-in-der-bibliothek",
+  "title": "Gemeinsam Deutsch lernen",
+  "language": "de",
+  "explanationLanguage": "en",
+  "source": "Original fictional study text created for the Mein Deutsch public demonstration. Not reproduced from a news article or personal study record.",
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "Die Bibliothek bietet heute einen neuen Kurs an.",
+      "translation": "The library is offering a new course today.",
+      "segments": [{"text":"Die Bibliothek","role":"subject"},{"text":" ","role":"plain"},{"text":"bietet","role":"verb"},{"text":" heute ","role":"plain"},{"text":"einen neuen Kurs","role":"object"},{"text":" ","role":"plain"},{"text":"an","role":"verb"},{"text":".","role":"plain"}],
+      "vocabulary": [
+        {"kind":"noun","lemma":"die Bibliothek","plural":"die Bibliotheken","meaning":"library"},
+        {"kind":"verb","lemma":"anbieten","past":"bot an","perfect":"hat angeboten","meaning":"to offer"},
+        {"kind":"noun","lemma":"der Kurs","plural":"die Kurse","meaning":"course"},
+        {"kind":"other","lemma":"heute","meaning":"today"},
+        {"kind":"other","lemma":"neu","meaning":"new"}
+      ],
+      "expressions": []
+    },
+    {
+      "id": "s2",
+      "text": "Die Teilnehmer können dort kurze Texte lesen.",
+      "translation": "The participants can read short texts there.",
+      "segments": [{"text":"Die Teilnehmer","role":"subject"},{"text":" ","role":"plain"},{"text":"können","role":"modal"},{"text":" dort ","role":"plain"},{"text":"kurze Texte","role":"object"},{"text":" ","role":"plain"},{"text":"lesen","role":"verb"},{"text":".","role":"plain"}],
+      "vocabulary": [
+        {"kind":"noun","lemma":"der Teilnehmer","plural":"die Teilnehmer","meaning":"participant"},
+        {"kind":"noun","lemma":"der Text","plural":"die Texte","meaning":"text"},
+        {"kind":"verb","lemma":"lesen","past":"las","perfect":"hat gelesen","meaning":"to read"},
+        {"kind":"other","lemma":"kurz","meaning":"short"},
+        {"kind":"other","lemma":"dort","meaning":"there"}
+      ],
+      "expressions": []
+    },
+    {
+      "id": "s3",
+      "text": "Eine Lehrerin erklärt schwierige Wörter mit einfachen Beispielen.",
+      "translation": "A teacher explains difficult words using simple examples.",
+      "segments": [{"text":"Eine Lehrerin","role":"subject"},{"text":" ","role":"plain"},{"text":"erklärt","role":"verb"},{"text":" ","role":"plain"},{"text":"schwierige Wörter","role":"object"},{"text":" mit einfachen Beispielen.","role":"plain"}],
+      "vocabulary": [
+        {"kind":"noun","lemma":"die Lehrerin","plural":"die Lehrerinnen","meaning":"teacher (female)"},
+        {"kind":"verb","lemma":"erklären","past":"erklärte","perfect":"hat erklärt","meaning":"to explain"},
+        {"kind":"noun","lemma":"das Wort","plural":"die Wörter","meaning":"word"},
+        {"kind":"noun","lemma":"das Beispiel","plural":"die Beispiele","meaning":"example"},
+        {"kind":"other","lemma":"schwierig","meaning":"difficult"},
+        {"kind":"other","lemma":"einfach","meaning":"simple"}
+      ],
+      "expressions": []
+    },
+    {
+      "id": "s4",
+      "text": "Nach dem Unterricht üben wir gemeinsam im Park.",
+      "translation": "After the lesson, we practice together in the park.",
+      "segments": [{"text":"Nach dem Unterricht ","role":"plain"},{"text":"üben","role":"verb"},{"text":" ","role":"plain"},{"text":"wir","role":"subject"},{"text":" gemeinsam im Park.","role":"plain"}],
+      "vocabulary": [
+        {"kind":"noun","lemma":"der Unterricht","plural":"Usually singular in this meaning","meaning":"lesson or instruction"},
+        {"kind":"verb","lemma":"üben","past":"übte","perfect":"hat geübt","meaning":"to practice"},
+        {"kind":"other","lemma":"gemeinsam","meaning":"together"},
+        {"kind":"noun","lemma":"der Park","plural":"die Parks","meaning":"park"}
+      ],
+      "expressions": [{"text":"nach dem Unterricht","meaning":"after the lesson"}]
+    },
+    {
+      "id": "s5",
+      "text": "Wir verbessern unsere Aussprache Schritt für Schritt.",
+      "translation": "We improve our pronunciation step by step.",
+      "segments": [{"text":"Wir","role":"subject"},{"text":" ","role":"plain"},{"text":"verbessern","role":"verb"},{"text":" ","role":"plain"},{"text":"unsere Aussprache","role":"object"},{"text":" Schritt für Schritt.","role":"plain"}],
+      "vocabulary": [
+        {"kind":"verb","lemma":"verbessern","past":"verbesserte","perfect":"hat verbessert","meaning":"to improve"},
+        {"kind":"noun","lemma":"die Aussprache","plural":"Usually singular when referring to pronunciation","meaning":"pronunciation"},
+        {"kind":"noun","lemma":"der Schritt","plural":"die Schritte","meaning":"step"}
+      ],
+      "expressions": [{"text":"Schritt für Schritt","meaning":"step by step"}]
+    }
+  ]
+}

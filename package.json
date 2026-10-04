@@ -1,0 +1,21 @@
+{
+  "name": "mein-deutsch-public",
+  "version": "1.0.6",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node preview-public.mjs",
+    "test": "node --test tests/core.test.mjs",
+    "test:speech": "node --test tests/speech.browser.cjs",
+    "test:grammar": "node --test tests/grammar.browser.cjs",
+    "test:vocabulary": "node --test tests/vocabulary.browser.cjs",
+    "test:audio": "node --test tests/audio-settings.browser.cjs",
+    "test:browser": "node --test --test-concurrency=1 tests/*.browser.cjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

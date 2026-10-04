@@ -1,0 +1,4096 @@
+{
+  "A2": [
+    {
+      "title": "Perfekt: choosing haben or sein",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "The Perfekt commonly reports completed events in conversation. Use a present-tense auxiliary and a past participle. Most verbs take haben; many intransitive verbs expressing a change of location or state take sein. Learn the auxiliary together with the verb."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "haben + participle",
+              "ich habe gearbeitet / gelesen"
+            ],
+            [
+              "sein + participle",
+              "ich bin gefahren / eingeschlafen"
+            ],
+            [
+              "Sentence bracket",
+              "Heute habe ich lange gearbeitet."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Wir sind gestern nach Trier gefahren.",
+          "en": "We travelled to Trier yesterday."
+        },
+        {
+          "type": "example",
+          "de": "Ich habe den Bericht gelesen.",
+          "en": "I have read the report."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Movement alone is not a universal test: a transitive use such as Ich habe das Auto gefahren takes haben. Separable prefixes precede ge-; inseparable prefixes and -ieren verbs normally have no ge-."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Complete: Sie ___ um acht angekommen."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Sie ist um acht angekommen. Ankommen takes sein."
+        }
+      ]
+    },
+    {
+      "title": "Präteritum: sein, haben and modal verbs",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Präteritum places an event or state in the past. Sein, haben and modal verbs are especially common in this form even in everyday speech. A modal verb places the other infinitive at the end."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "sein / haben",
+              "ich war, wir waren / ich hatte, wir hatten"
+            ],
+            [
+              "Modal stems",
+              "konnte, musste, durfte, sollte, wollte"
+            ],
+            [
+              "First / third person singular",
+              "ich konnte / sie konnte"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Als Kind konnte ich gut schwimmen.",
+          "en": "As a child I could swim well."
+        },
+        {
+          "type": "example",
+          "de": "Wir hatten keine Zeit und mussten gehen.",
+          "en": "We had no time and had to leave."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Past ability konnte is different from hypothetical könnte. The umlaut changes the meaning. A modal verb with another verb normally takes a bare infinitive, not zu."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Put into the past: Ich muss arbeiten."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Ich musste arbeiten."
+        }
+      ]
+    },
+    {
+      "title": "Dative and accusative objects",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "A verb determines the cases of its objects. With geben, schicken and zeigen, the recipient is normally dative and the thing transferred is accusative. Some verbs, including helfen and danken, take a dative object without an accusative object."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Recipient",
+              "dem Mann / der Frau / dem Kind"
+            ],
+            [
+              "Thing",
+              "den Brief / die Nachricht / das Buch"
+            ],
+            [
+              "Personal pronouns",
+              "mir, dir, ihm, ihr / mich, dich, ihn, sie"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Ich schicke meiner Schwester einen Brief.",
+          "en": "I am sending my sister a letter."
+        },
+        {
+          "type": "example",
+          "de": "Kannst du mir helfen?",
+          "en": "Can you help me?"
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "English word order does not determine German case. With two unstressed personal pronouns, accusative usually precedes dative: Ich gebe es ihr."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Complete: Ich danke ___ Lehrer. (der)"
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Ich danke dem Lehrer. Danken takes dative."
+        }
+      ]
+    },
+    {
+      "title": "Two-way prepositions: place and destination",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "An, auf, hinter, in, neben, über, unter, vor and zwischen can take dative or accusative. Use dative for a location and accusative for a directed change into a spatial relationship. The question is where versus where to, not simply whether movement occurs."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Where? + dative",
+              "in der Küche / auf dem Tisch"
+            ],
+            [
+              "Where to? + accusative",
+              "in die Küche / auf den Tisch"
+            ],
+            [
+              "Position / placement",
+              "stehen / stellen; liegen / legen"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Die Kinder laufen im Park.",
+          "en": "The children are running in the park."
+        },
+        {
+          "type": "example",
+          "de": "Sie legt das Buch auf den Tisch.",
+          "en": "She puts the book on the table."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Laufen im Park still uses dative because the park is the location of the activity. Do not switch to accusative merely because the verb describes motion."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Complete: Das Bild hängt an ___ Wand."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Das Bild hängt an der Wand. This describes its location."
+        }
+      ]
+    },
+    {
+      "title": "Adjective endings after articles",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "An adjective before a noun takes an ending showing its grammatical relationship to the noun. After a definite article, -e and -en are the main endings. After ein, the adjective sometimes supplies a gender ending missing from the article. Predicate adjectives do not take these endings."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Definite, nominative singular",
+              "der gute Film / die gute Idee / das gute Buch"
+            ],
+            [
+              "Indefinite, nominative singular",
+              "ein guter Film / eine gute Idee / ein gutes Buch"
+            ],
+            [
+              "Dative",
+              "mit dem guten Film / mit einem guten Film"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Ich kaufe einen neuen Mantel.",
+          "en": "I am buying a new coat."
+        },
+        {
+          "type": "example",
+          "de": "Der Mantel ist neu.",
+          "en": "The coat is new."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "The masculine accusative is einen neuen Mantel. Do not add an adjective ending after sein in a simple predicate such as ist neu."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Complete: Das ist ein interessant___ Buch."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Das ist ein interessantes Buch. Buch is neuter nominative."
+        }
+      ]
+    },
+    {
+      "title": "Comparatives and superlatives",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Use the comparative to compare two things and the superlative for the highest degree in a group. Many short adjectives have an umlaut; several common forms are irregular. A comparative before a noun also needs an adjective ending."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Regular",
+              "klein - kleiner - am kleinsten"
+            ],
+            [
+              "Umlaut",
+              "groß - größer - am größten"
+            ],
+            [
+              "Irregular",
+              "gut - besser - am besten; viel - mehr - am meisten"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Dieser Weg ist kürzer als der andere.",
+          "en": "This route is shorter than the other one."
+        },
+        {
+          "type": "example",
+          "de": "Von allen läuft sie am schnellsten.",
+          "en": "Of everyone, she runs the fastest."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Use als for inequality and so ... wie for equality. Am besten is predicative/adverbial; before a noun use an inflected form such as der beste Weg."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Complete: Mein Zimmer ist so groß ___ deins."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Mein Zimmer ist so groß wie deins."
+        }
+      ]
+    },
+    {
+      "title": "Reasons and content: weil and dass",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Weil introduces a reason; dass introduces reported or thought content. In standard written subordinate clauses, the finite verb goes at the end. A preceding subordinate clause counts as the first unit of the following main clause."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Reason",
+              "weil ich heute arbeite"
+            ],
+            [
+              "Content",
+              "dass sie morgen kommt"
+            ],
+            [
+              "Clause first",
+              "Weil es regnet, bleiben wir zu Hause."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Ich bleibe zu Hause, weil ich krank bin.",
+          "en": "I am staying at home because I am ill."
+        },
+        {
+          "type": "example",
+          "de": "Ich glaube, dass der Zug pünktlich ist.",
+          "en": "I think that the train is on time."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Do not keep ordinary main-clause order after weil or dass in standard writing. Separate the subordinate clause with a comma."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Join with weil: Ich bin müde. Ich habe wenig geschlafen."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Ich bin müde, weil ich wenig geschlafen habe."
+        }
+      ]
+    },
+    {
+      "title": "Time clauses: wenn and als",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Use als for a single past occasion or a past period viewed as one situation. Use wenn for repeated events and for present/future conditions or occasions. Both introduce verb-final subordinate clauses."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Single past situation",
+              "als ich in Berlin wohnte"
+            ],
+            [
+              "Repeated past event",
+              "immer wenn ich zu Besuch kam"
+            ],
+            [
+              "Future occasion",
+              "wenn du morgen kommst"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Als ich acht war, lebte ich in Bonn.",
+          "en": "When I was eight, I lived in Bonn."
+        },
+        {
+          "type": "example",
+          "de": "Wenn es regnet, nehme ich den Bus.",
+          "en": "When it rains, I take the bus."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Als can describe a long period, not only a brief event. For an indirect question asking when, use wann: Ich weiß nicht, wann er kommt."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Choose als or wenn: ___ ich gestern ankam, war es dunkel."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Als ich gestern ankam, war es dunkel."
+        }
+      ]
+    },
+    {
+      "title": "Reflexive verbs and pronouns",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Some verbs are learned with a reflexive pronoun, such as sich interessieren. With actions directed back at the subject, the pronoun agrees with that subject. If a separate accusative object is present, the reflexive pronoun may be dative."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Accusative",
+              "mich, dich, sich, uns, euch, sich"
+            ],
+            [
+              "Dative",
+              "mir, dir, sich, uns, euch, sich"
+            ],
+            [
+              "Fixed expression",
+              "sich für etwas interessieren"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Ich interessiere mich für Geschichte.",
+          "en": "I am interested in history."
+        },
+        {
+          "type": "example",
+          "de": "Ich wasche mir die Hände.",
+          "en": "I am washing my hands."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "The pronoun alone does not determine the preposition. Learn sich freuen auf + accusative for anticipation and sich freuen über + accusative for a cause of pleasure."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Complete: Du musst ___ beeilen."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Du musst dich beeilen. Sich beeilen uses an accusative reflexive pronoun."
+        }
+      ]
+    },
+    {
+      "title": "Infinitive clauses with zu",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "After many verbs and adjective expressions, an infinitive clause describes another action. The understood subject is often the main-clause subject. With a separable verb, zu goes between the prefix and the verb stem."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Simple infinitive",
+              "versuchen, Deutsch zu lernen"
+            ],
+            [
+              "Separable verb",
+              "anfangen, früh aufzustehen"
+            ],
+            [
+              "No zu after a modal",
+              "Ich kann schwimmen."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Ich versuche, jeden Tag zu lesen.",
+          "en": "I try to read every day."
+        },
+        {
+          "type": "example",
+          "de": "Es ist wichtig, genug zu schlafen.",
+          "en": "It is important to get enough sleep."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Not every verb takes zu. Modal verbs take a bare infinitive. Use a comma for clarity here; certain infinitive groups require it, including those introduced by um, ohne or statt."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Complete: Ich habe vor, morgen früh ___ (aufstehen)."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Ich habe vor, morgen früh aufzustehen."
+        }
+      ]
+    },
+    {
+      "title": "Relative clauses: nominative and accusative",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "A relative clause adds information about a noun. The relative pronoun takes its gender and number from that noun, but its case comes from its role inside the relative clause. The finite verb is final."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Nominative",
+              "der / die / das / die"
+            ],
+            [
+              "Accusative",
+              "den / die / das / die"
+            ],
+            [
+              "Clause boundary",
+              "der Mann, den ich kenne, ..."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Das ist die Frau, die hier arbeitet.",
+          "en": "That is the woman who works here."
+        },
+        {
+          "type": "example",
+          "de": "Hier ist der Film, den du suchst.",
+          "en": "Here is the film you are looking for."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Do not copy the case of the noun in the main clause. In den du suchst, du is the subject and den is the accusative object."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Complete: Das ist der Mann, ___ nebenan wohnt."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Das ist der Mann, der nebenan wohnt. The pronoun is the subject."
+        }
+      ]
+    },
+    {
+      "title": "Polite requests with Konjunktiv II",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Könnte, würde and hätte make requests less direct. Use könnte with a bare infinitive for a polite request about an action. Ich hätte gern requests a thing; ich würde gern expresses a desired action."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Request",
+              "Könnten Sie mir helfen?"
+            ],
+            [
+              "Thing wanted",
+              "Ich hätte gern einen Tee."
+            ],
+            [
+              "Action wanted",
+              "Ich würde gern bezahlen."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Könntest du bitte das Fenster schließen?",
+          "en": "Could you please close the window?"
+        },
+        {
+          "type": "example",
+          "de": "Ich hätte gern einen Termin.",
+          "en": "I would like an appointment."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "These forms do not necessarily refer to past time. Bitte helps with politeness, but word order still follows the normal question pattern."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Make this polite: Helfen Sie mir!"
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Könnten Sie mir bitte helfen?"
+        }
+      ]
+    }
+  ],
+  "B1": [
+    {
+      "title": "Plusquamperfekt: the earlier past",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Use the Plusquamperfekt to locate an event before another past reference point. Form it with the Präteritum of haben or sein and the past participle. The choice of auxiliary normally matches the Perfekt."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "haben",
+              "hatte + participle: hatte gegessen"
+            ],
+            [
+              "sein",
+              "war + participle: war gegangen"
+            ],
+            [
+              "Earlier than another past event",
+              "Nachdem sie angekommen war, rief sie an."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Ich hatte schon gegessen, als er kam.",
+          "en": "I had already eaten when he arrived."
+        },
+        {
+          "type": "example",
+          "de": "Der Zug war abgefahren, bevor wir den Bahnhof erreichten.",
+          "en": "The train had departed before we reached the station."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Use a clear past reference point. The form is not simply a more formal replacement for every Perfekt sentence."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Complete: Nachdem ich den Brief ___ (lesen), antwortete ich."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Nachdem ich den Brief gelesen hatte, antwortete ich."
+        }
+      ]
+    },
+    {
+      "title": "Passive voice: present and past",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "The process passive focuses on an action and what is affected by it. Use werden plus a past participle. An active accusative object can become the passive subject; a dative object remains dative."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Present",
+              "Der Brief wird geschrieben."
+            ],
+            [
+              "Präteritum",
+              "Der Brief wurde geschrieben."
+            ],
+            [
+              "Perfekt",
+              "Der Brief ist geschrieben worden."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Die Straße wird repariert.",
+          "en": "The road is being repaired."
+        },
+        {
+          "type": "example",
+          "de": "Dem Patienten wurde geholfen.",
+          "en": "The patient was helped."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "The passive Perfekt uses worden, not geworden. Dem Patienten remains dative; passive does not turn every object into nominative."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Change to passive: Die Firma baut eine Brücke."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Eine Brücke wird von der Firma gebaut."
+        }
+      ]
+    },
+    {
+      "title": "Unreal conditions in the present",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Konjunktiv II presents an imagined or unreal situation. Use wäre, hätte and common modal forms directly; würde + infinitive is useful for many other verbs. A wenn-clause places its finite verb last."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Condition",
+              "Wenn ich mehr Zeit hätte, ..."
+            ],
+            [
+              "Result",
+              "... würde ich mehr lesen."
+            ],
+            [
+              "Common forms",
+              "wäre, hätte, könnte, müsste"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Wenn ich frei hätte, würde ich mitkommen.",
+          "en": "If I had time off, I would come along."
+        },
+        {
+          "type": "example",
+          "de": "An deiner Stelle würde ich nachfragen.",
+          "en": "In your position, I would ask for clarification."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Hätte does not automatically mean past time in this construction. For an unreal past event, use hätte/wäre plus a participle."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Complete: Wenn ich du ___, würde ich warten."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Wenn ich du wäre, würde ich warten."
+        }
+      ]
+    },
+    {
+      "title": "Relative clauses with dative and prepositions",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "A relative pronoun can be dative or follow a preposition. Keep the preposition required by the verb or relationship. The noun being described supplies gender and number; the clause supplies case."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Dative pronouns",
+              "dem / der / dem / denen"
+            ],
+            [
+              "Preposition + pronoun",
+              "mit dem; auf die; für das"
+            ],
+            [
+              "Verb-final",
+              "die Frau, mit der ich spreche"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Das ist der Kollege, dem ich geholfen habe.",
+          "en": "That is the colleague whom I helped."
+        },
+        {
+          "type": "example",
+          "de": "Die Stadt, in der ich wohne, ist klein.",
+          "en": "The town where I live is small."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Plural dative is denen, not den. With people, retain preposition + relative pronoun rather than using a da-compound."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Complete: Das sind die Leute, mit ___ wir reisen."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Das sind die Leute, mit denen wir reisen."
+        }
+      ]
+    },
+    {
+      "title": "Purpose: um ... zu and damit",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Purpose clauses explain a goal. Um ... zu normally shares its understood subject with the main clause. Damit has an explicit subject and is useful when the people performing the two actions differ."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Same subject",
+              "Ich lerne, um die Prüfung zu bestehen."
+            ],
+            [
+              "Explicit subject",
+              "Ich helfe dir, damit du fertig wirst."
+            ],
+            [
+              "Placement",
+              "um + other words + zu-infinitive"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Sie spart, um ein Fahrrad zu kaufen.",
+          "en": "She is saving to buy a bicycle."
+        },
+        {
+          "type": "example",
+          "de": "Ich spreche langsam, damit alle mich verstehen.",
+          "en": "I speak slowly so that everyone understands me."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Damit can also be used when the subjects are the same. Do not use an um-zu clause with a separate finite subject and verb."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Join: Ich öffne die Tür. Die Gäste können hereinkommen."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Ich öffne die Tür, damit die Gäste hereinkommen können."
+        }
+      ]
+    },
+    {
+      "title": "Concession and consequence",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Obwohl marks a fact that contrasts with the main-clause result. Trotzdem and deshalb are main-clause adverbs: when they come first, the finite verb follows immediately. Deshalb gives a consequence or reason-based conclusion; trotzdem gives an unexpected result."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Subordinate clause",
+              "obwohl es regnet"
+            ],
+            [
+              "Unexpected result",
+              "Trotzdem gehen wir spazieren."
+            ],
+            [
+              "Consequence",
+              "Deshalb bleiben wir zu Hause."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Obwohl sie müde ist, arbeitet sie weiter.",
+          "en": "Although she is tired, she keeps working."
+        },
+        {
+          "type": "example",
+          "de": "Sie ist müde. Deshalb macht sie eine Pause.",
+          "en": "She is tired. Therefore she takes a break."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Obwohl and trotzdem are not interchangeable without changing word order. Avoid Obwohl sie ist müde in standard written German."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Rewrite using trotzdem: Obwohl es kalt ist, geht er schwimmen."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Es ist kalt. Trotzdem geht er schwimmen."
+        }
+      ]
+    },
+    {
+      "title": "Indirect questions: ob and question words",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "An indirect question is embedded in another sentence. Use ob for a yes/no question and retain a question word such as wann, wo or warum for an information question. Put the finite verb at the end."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Yes/no",
+              "ob der Laden offen ist"
+            ],
+            [
+              "Information",
+              "wann der Zug fährt"
+            ],
+            [
+              "Polite opening",
+              "Können Sie mir sagen, ...?"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Ich weiß nicht, ob er heute kommt.",
+          "en": "I do not know whether he is coming today."
+        },
+        {
+          "type": "example",
+          "de": "Kannst du mir sagen, wo der Bahnhof ist?",
+          "en": "Can you tell me where the station is?"
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Ob means whether here, not a conditional if. Do not preserve the direct question order inside the embedded clause."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Embed: Wann beginnt der Kurs? / Wissen Sie ..."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Wissen Sie, wann der Kurs beginnt?"
+        }
+      ]
+    },
+    {
+      "title": "Verbs with prepositions and da-/wo-compounds",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Many verbs select a fixed preposition and case. For things or situations, da-compounds refer back and wo-compounds ask questions. Insert r before a vowel: daran, worauf. For people, use preposition plus a personal or interrogative pronoun."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Fixed combinations",
+              "warten auf + accusative; teilnehmen an + dative"
+            ],
+            [
+              "Thing / situation",
+              "darauf warten / worauf warten?"
+            ],
+            [
+              "Person",
+              "auf ihn warten / auf wen warten?"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Worauf wartest du? Ich warte auf den Bus.",
+          "en": "What are you waiting for? I am waiting for the bus."
+        },
+        {
+          "type": "example",
+          "de": "Ich freue mich darauf, dich zu sehen.",
+          "en": "I am looking forward to seeing you."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Learn the whole combination, including case. Do not use worauf when you specifically mean which person: Auf wen wartest du?"
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Replace auf den Termin: Ich warte auf den Termin."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Ich warte darauf."
+        }
+      ]
+    },
+    {
+      "title": "Genitive possession and common prepositions",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "The genitive can link a possessor or associated noun to another noun, especially in writing. Masculine and neuter singular nouns often add -(e)s. Feminine and plural nouns usually do not add a special genitive ending."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Masculine / neuter",
+              "des Mannes / des Kindes"
+            ],
+            [
+              "Feminine / plural",
+              "der Frau / der Kinder"
+            ],
+            [
+              "Common written prepositions",
+              "wegen, trotz, während + genitive"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Die Farbe des Autos gefällt mir.",
+          "en": "I like the colour of the car."
+        },
+        {
+          "type": "example",
+          "de": "Während des Kurses bleibt das Handy aus.",
+          "en": "During the course, the phone stays off."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "In everyday speech, von + dative often replaces a possessive genitive. Dative after wegen occurs in speech, but genitive is a useful default for formal writing."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Complete: wegen ___ schlechten Wetters"
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> wegen des schlechten Wetters"
+        }
+      ]
+    },
+    {
+      "title": "Adjectives without an article",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Without an article, an attributive adjective carries much of the case information itself. These are strong endings. Pay particular attention to nominative and accusative plural -e and dative plural -en."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Nominative singular",
+              "guter Kaffee / kalte Milch / frisches Brot"
+            ],
+            [
+              "Accusative masculine",
+              "guten Kaffee"
+            ],
+            [
+              "Dative",
+              "mit gutem Kaffee / mit kalter Milch / mit frischem Brot"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Wir trinken kaltes Wasser.",
+          "en": "We are drinking cold water."
+        },
+        {
+          "type": "example",
+          "de": "Mit frischen Kräutern schmeckt es besser.",
+          "en": "It tastes better with fresh herbs."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Dative plural nouns often add -n too: mit frischen Kräutern. Do not add another -n if the plural already ends in -n or -s."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Complete: Ich suche frisch___ Brot."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Ich suche frisches Brot. Brot is neuter accusative."
+        }
+      ]
+    },
+    {
+      "title": "Future reference: present and werden",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "German often uses the present tense with a time expression for future plans. Werden + infinitive can mark a prediction, promise or assumption. The infinitive stays at the end of a main clause."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Plan with time expression",
+              "Morgen fahre ich nach Köln."
+            ],
+            [
+              "Futur I",
+              "Ich werde morgen anrufen."
+            ],
+            [
+              "Present assumption",
+              "Er wird jetzt zu Hause sein."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Nächste Woche beginnt mein Kurs.",
+          "en": "My course starts next week."
+        },
+        {
+          "type": "example",
+          "de": "Keine Sorge, ich werde dir helfen.",
+          "en": "Do not worry; I will help you."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Werden does not always indicate future time: context can make it an assumption about now. Distinguish werden + infinitive from passive werden + participle."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Form Futur I: Wir besuchen euch."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Wir werden euch besuchen."
+        }
+      ]
+    },
+    {
+      "title": "Paired connectors",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Paired connectors organise alternatives, additions or exclusions. Connect elements of the same grammatical type. Weder ... noch denies both alternatives; entweder ... oder offers a choice."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Addition",
+              "sowohl ... als auch"
+            ],
+            [
+              "Choice",
+              "entweder ... oder"
+            ],
+            [
+              "Double exclusion",
+              "weder ... noch"
+            ],
+            [
+              "Contrastive addition",
+              "nicht nur ... sondern auch"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Sie spricht sowohl Deutsch als auch Französisch.",
+          "en": "She speaks both German and French."
+        },
+        {
+          "type": "example",
+          "de": "Ich trinke weder Kaffee noch Tee.",
+          "en": "I drink neither coffee nor tea."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Do not add nicht to a simple weder ... noch pair. When connecting whole clauses, check the verb position separately in each clause."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Combine with nicht nur ... sondern auch: Der Kurs ist interessant. Er ist praktisch."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Der Kurs ist nicht nur interessant, sondern auch praktisch."
+        }
+      ]
+    }
+  ],
+  "B2": [
+    {
+      "title": "Unreal past conditions",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Use hätte or wäre plus a past participle for an imagined alternative to a past event. The auxiliary normally matches the verb's Perfekt auxiliary. Both the condition and the result may refer to the unreal past."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "haben verb",
+              "hätte gelernt"
+            ],
+            [
+              "sein verb",
+              "wäre gekommen"
+            ],
+            [
+              "Condition first",
+              "Wenn ich gelernt hätte, hätte ich bestanden."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Wenn ich früher losgegangen wäre, hätte ich den Zug erreicht.",
+          "en": "If I had left earlier, I would have caught the train."
+        },
+        {
+          "type": "example",
+          "de": "Ohne deine Hilfe hätte ich es nicht geschafft.",
+          "en": "Without your help, I would not have managed it."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Do not use würde + simple infinitive when you need to mark a completed unreal past event. With a modal verb, the form becomes hätte + infinitive + modal infinitive."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Complete: Wenn sie angerufen ___, wären wir geblieben."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Wenn sie angerufen hätte, wären wir geblieben."
+        }
+      ]
+    },
+    {
+      "title": "Process passive and state passive",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Werden + participle presents a process or event. Sein + participle can present its resulting state. Some sein + participle combinations also behave like ordinary adjective predicates; interpret them in context."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Process, present",
+              "Die Tür wird geschlossen."
+            ],
+            [
+              "State, present",
+              "Die Tür ist geschlossen."
+            ],
+            [
+              "Process, Perfekt",
+              "Die Tür ist geschlossen worden."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Das Fenster wurde um acht geöffnet.",
+          "en": "The window was opened at eight."
+        },
+        {
+          "type": "example",
+          "de": "Als wir ankamen, war das Fenster geöffnet.",
+          "en": "When we arrived, the window was open."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Ist geöffnet and ist geöffnet worden are different: one describes a state, the other a completed opening event. Not all verbs naturally form both constructions."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Choose a state description: Die Rechnung ___ bezahlt."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Die Rechnung ist bezahlt. This presents the paid status, not the payment process."
+        }
+      ]
+    },
+    {
+      "title": "Passive with modal verbs",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "A modal verb combines with a passive infinitive to express obligation, possibility or permission concerning an action. The passive infinitive consists of the past participle plus werden."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Present",
+              "muss geprüft werden"
+            ],
+            [
+              "Past obligation",
+              "musste geprüft werden"
+            ],
+            [
+              "Subordinate clause",
+              "weil es geprüft werden muss"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Der Antrag muss bis Freitag eingereicht werden.",
+          "en": "The application must be submitted by Friday."
+        },
+        {
+          "type": "example",
+          "de": "Die Datei konnte nicht geöffnet werden.",
+          "en": "The file could not be opened."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Keep werden in the passive infinitive. Muss geprüft is incomplete. Distinguish nicht müssen (no obligation) from nicht dürfen (prohibition)."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Rewrite: Man muss die Daten prüfen."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Die Daten müssen geprüft werden."
+        }
+      ]
+    },
+    {
+      "title": "Konjunktiv I in reported statements",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Formal reports often use Konjunktiv I to mark information as someone else's statement. This signals attribution, not automatic disbelief. Common third-person forms end in -e; sein has the distinctive form sei."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Present report",
+              "er komme / sie habe / es sei"
+            ],
+            [
+              "Earlier event",
+              "er habe gearbeitet / sie sei angekommen"
+            ],
+            [
+              "Reporting frame",
+              "Die Sprecherin erklärt, ..."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Die Sprecherin sagt, die Lage sei stabil.",
+          "en": "The spokesperson says that the situation is stable."
+        },
+        {
+          "type": "example",
+          "de": "Er erklärt, er habe die Nachricht nicht erhalten.",
+          "en": "He explains that he did not receive the message."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Pronouns and time expressions must suit the reporting perspective. German does not mechanically shift every reported present tense into a past tense."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Report formally: Sie sagt: Ich bin bereit."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Sie sagt, sie sei bereit."
+        }
+      ]
+    },
+    {
+      "title": "Modal verbs for probability",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Modal verbs can express an assessment of likelihood rather than ability or obligation. Muss can convey a strong inference, dürfte a likely assumption, and könnte a possibility. The strength depends on context and is not an exact probability percentage."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Strong inference",
+              "Er muss müde sein."
+            ],
+            [
+              "Likely assumption",
+              "Er dürfte müde sein."
+            ],
+            [
+              "Possibility",
+              "Er könnte müde sein."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Das Licht ist aus. Sie muss schon schlafen.",
+          "en": "The light is off. She must already be asleep."
+        },
+        {
+          "type": "example",
+          "de": "Der Schlüssel könnte im Büro liegen.",
+          "en": "The key might be in the office."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Dürfte in this use is an assumption, not simply past permission. Er muss nicht kommen usually means he does not have to come, not that his arrival is impossible."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Express a possibility: Vielleicht ist der Laden geschlossen."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Der Laden könnte geschlossen sein."
+        }
+      ]
+    },
+    {
+      "title": "Participles used as adjectives",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Partizip I usually presents an ongoing or characteristic active situation. Partizip II often presents a completed or passive/resulting situation, depending on the verb. Before a noun, both take adjective endings."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Partizip I",
+              "warten + d: die wartenden Gäste"
+            ],
+            [
+              "Partizip II",
+              "die reparierte Maschine"
+            ],
+            [
+              "Completed intransitive event",
+              "die angekommenen Gäste"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Die wartenden Fahrgäste wurden informiert.",
+          "en": "The waiting passengers were informed."
+        },
+        {
+          "type": "example",
+          "de": "Wir prüfen die gestern eingegangenen Anträge.",
+          "en": "We are checking the applications received yesterday."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Partizip II is not always passive: angekommen describes guests who arrived. Keep modifiers before the participle when building an attributive phrase."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Shorten: die Menschen, die hier arbeiten"
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> die hier arbeitenden Menschen"
+        }
+      ]
+    },
+    {
+      "title": "Nominalisation and verbal style",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Nominalisation turns an event into a noun phrase. It is common in reports and headings, but a verb-based sentence often makes the actor clearer. Preserve the original meaning and do not assume every verb forms a natural noun with -ung."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Verb to noun",
+              "prüfen - die Prüfung"
+            ],
+            [
+              "Capitalised infinitive",
+              "lesen - das Lesen"
+            ],
+            [
+              "Clause to phrase",
+              "nachdem geprüft wurde - nach der Prüfung"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Nach der Prüfung der Daten erstellen wir den Bericht.",
+          "en": "After checking the data, we prepare the report."
+        },
+        {
+          "type": "example",
+          "de": "Nachdem wir die Daten geprüft haben, erstellen wir den Bericht.",
+          "en": "After we have checked the data, we prepare the report."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "A noun phrase can hide who performs an action. Use a genitive, von-phrase or full clause when the actor matters."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Rewrite verbally: Vor der Abfahrt kontrolliert sie die Tickets."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Bevor sie abfährt, kontrolliert sie die Tickets."
+        }
+      ]
+    },
+    {
+      "title": "Concessive conditions: selbst wenn and auch wenn",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "A concessive conditional says that the result holds even under an unfavourable or unexpected condition. Selbst wenn often strengthens the hypothetical meaning. Auch wenn may be conditional or acknowledge a fact; context distinguishes the readings."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Hypothetical concession",
+              "Selbst wenn es regnet, ..."
+            ],
+            [
+              "Concession with explicit subject",
+              "Auch wenn ich wenig Zeit habe, ..."
+            ],
+            [
+              "Factual concession",
+              "Obwohl es regnet, ..."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Selbst wenn der Zug ausfällt, kommen wir rechtzeitig an.",
+          "en": "Even if the train is cancelled, we will arrive on time."
+        },
+        {
+          "type": "example",
+          "de": "Auch wenn die Aufgabe schwer ist, gebe ich nicht auf.",
+          "en": "Even though / even if the task is difficult, I will not give up."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Obwohl normally presents the subordinate statement as a fact. Selbst wenn need not assert that the condition actually holds."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Express even if: Wenn der Preis steigt, kaufen wir es trotzdem."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Selbst wenn der Preis steigt, kaufen wir es."
+        }
+      ]
+    },
+    {
+      "title": "Time relationships: bevor, nachdem, während, seitdem",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Temporal connectors specify the relationship between events. Bevor places the main event first, nachdem places the subordinate event first, and während presents overlap. Seitdem describes a starting point for a continuing situation."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Before / after",
+              "bevor / nachdem"
+            ],
+            [
+              "Simultaneous",
+              "während"
+            ],
+            [
+              "Since a starting event",
+              "seitdem"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Nachdem wir gegessen hatten, gingen wir spazieren.",
+          "en": "After we had eaten, we went for a walk."
+        },
+        {
+          "type": "example",
+          "de": "Seitdem sie hier wohnt, fährt sie mit dem Rad zur Arbeit.",
+          "en": "Since she started living here, she has cycled to work."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "German commonly uses the present for a situation continuing until now. Do not copy the English present perfect automatically into a seitdem clause or its main clause."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Join with während: Ich koche. Du deckst den Tisch."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Während ich koche, deckst du den Tisch."
+        }
+      ]
+    },
+    {
+      "title": "Modal and result clauses",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Indem describes a means or method. Dadurch, dass links a result to the situation that produces it. Sodass introduces a consequence rather than an intended goal; use damit or um ... zu for purpose."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Method",
+              "indem man regelmäßig übt"
+            ],
+            [
+              "Cause producing a result",
+              "dadurch, dass ..."
+            ],
+            [
+              "Result",
+              "sodass ..."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Sie verbessert ihre Aussprache, indem sie laut liest.",
+          "en": "She improves her pronunciation by reading aloud."
+        },
+        {
+          "type": "example",
+          "de": "Der Zug fiel aus, sodass wir später ankamen.",
+          "en": "The train was cancelled, so we arrived later."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Indem does not mean while in the purely temporal sense. A consequence with sodass need not be intended."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Join as a result: Es war sehr laut. Wir konnten nichts verstehen."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Es war sehr laut, sodass wir nichts verstehen konnten."
+        }
+      ]
+    },
+    {
+      "title": "N-declension and nominalised adjectives",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Weak masculine nouns typically add -(e)n outside nominative singular. Nominalised adjectives, in contrast, retain adjective endings even though they are capitalised and used as nouns."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Weak noun",
+              "der Student - den/dem/des Studenten"
+            ],
+            [
+              "Adjective noun with definite article",
+              "der Deutsche - den Deutschen"
+            ],
+            [
+              "Adjective noun with indefinite article",
+              "ein Deutscher - einen Deutschen"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Ich spreche mit einem Kollegen.",
+          "en": "I am speaking with a colleague."
+        },
+        {
+          "type": "example",
+          "de": "Eine Angestellte hat uns geholfen.",
+          "en": "A female employee helped us."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Not every masculine noun is weak. Der Name has mixed forms, including des Namens. Treat nominalised adjectives according to their article and case."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Complete: die Meinung des Student___"
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> die Meinung des Studenten"
+        }
+      ]
+    },
+    {
+      "title": "Infinitive constructions with lassen, brauchen and scheinen",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Lassen commonly takes a bare infinitive and can mean allow or have something done. Negated brauchen with zu expresses lack of necessity in standard written usage. Scheinen + zu expresses an appearance or impression."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Arrange an action",
+              "das Fahrrad reparieren lassen"
+            ],
+            [
+              "No necessity",
+              "nicht zu kommen brauchen"
+            ],
+            [
+              "Appearance",
+              "müde zu sein scheinen"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Ich lasse mein Fahrrad reparieren.",
+          "en": "I am having my bicycle repaired."
+        },
+        {
+          "type": "example",
+          "de": "Du brauchst heute nicht zu kommen.",
+          "en": "You do not need to come today."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Ich lasse das Fahrrad reparieren does not mean that I repair it myself. Do not use zu after lassen in this construction."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Rewrite using scheinen: Es sieht so aus, als wäre er müde."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Er scheint müde zu sein."
+        }
+      ]
+    }
+  ],
+  "C1": [
+    {
+      "title": "Reported speech: choosing replacement forms",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "When a Konjunktiv I form looks identical to the indicative, formal reports often use Konjunktiv II to make the reported status clear. A würde-form is available when a simple form is ambiguous or unsuitable. Context still determines whether a form is reported or hypothetical."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Distinct Konjunktiv I",
+              "sie sagt, sie sei bereit"
+            ],
+            [
+              "Ambiguous plural",
+              "sie sagen, sie haben ..."
+            ],
+            [
+              "Clearer replacement",
+              "sie sagen, sie hätten ..."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Die Forschenden erklären, sie hätten neue Daten.",
+          "en": "The researchers explain that they have new data."
+        },
+        {
+          "type": "example",
+          "de": "Er sagte, er sei bereits angekommen.",
+          "en": "He said that he had already arrived."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Hätten in a report need not mean that the speaker considers the statement false. Do not force a replacement when a clear Konjunktiv I form already fits."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Report clearly: Die Kinder sagen: Wir haben Hunger."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Die Kinder sagen, sie hätten Hunger."
+        }
+      ]
+    },
+    {
+      "title": "Past deductions and attributed claims",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "A modal plus a perfect infinitive assesses or reports an earlier event. Müssen/können/könnten can express deductions or possibilities. Sollen attributes a claim to another source; wollen can attribute a claim to the grammatical subject."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Past deduction",
+              "muss gegangen sein"
+            ],
+            [
+              "External report",
+              "soll gewonnen haben"
+            ],
+            [
+              "Subject's own claim",
+              "will nichts gesehen haben"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Sie muss den Brief schon gelesen haben.",
+          "en": "She must already have read the letter."
+        },
+        {
+          "type": "example",
+          "de": "Er will von dem Fehler nichts gewusst haben.",
+          "en": "He claims not to have known about the mistake."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Er soll gegangen sein reports what others say; er will gegangen sein reports his own claim in the relevant reading. Neither construction by itself proves the claim true."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Express a past possibility: Vielleicht hat sie den Bus verpasst."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Sie könnte den Bus verpasst haben."
+        }
+      ]
+    },
+    {
+      "title": "Alternatives to the passive",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Several constructions present an action without naming its performer. Sich lassen + infinitive often expresses possibility. Sein + zu-infinitive may express necessity or possibility, depending on context. An adjective in -bar can express suitability or possibility where the word exists."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Possibility",
+              "Die Datei lässt sich öffnen."
+            ],
+            [
+              "Requirement",
+              "Die Frist ist einzuhalten."
+            ],
+            [
+              "Adjective",
+              "Der Text ist lesbar."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Das Problem lässt sich leicht lösen.",
+          "en": "The problem can be solved easily."
+        },
+        {
+          "type": "example",
+          "de": "Die Unterlagen sind bis Montag einzureichen.",
+          "en": "The documents must be submitted by Monday."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Sein + zu is not always obligation: Das ist kaum zu verstehen expresses difficulty/possibility. Not every verb has a natural -bar adjective."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Rewrite with sich lassen: Man kann die Tür öffnen."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Die Tür lässt sich öffnen."
+        }
+      ]
+    },
+    {
+      "title": "Extended participial attributes",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "A participial attribute can condense a relative clause into a noun phrase. Place the participle after its complements and before the noun, then give it the required adjective ending. This is frequent in formal writing but becomes difficult to read when overloaded."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Relative clause",
+              "die Daten, die gestern erhoben wurden"
+            ],
+            [
+              "Attribute",
+              "die gestern erhobenen Daten"
+            ],
+            [
+              "Case marking",
+              "mit den gestern erhobenen Daten"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Die von der Behörde veröffentlichten Zahlen sind vorläufig.",
+          "en": "The figures published by the authority are provisional."
+        },
+        {
+          "type": "example",
+          "de": "Wir befragen die seit Jahren hier lebenden Menschen.",
+          "en": "We interview the people who have been living here for years."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Keep the time and voice interpretation appropriate to the verb. Use a relative clause if several modifiers make the noun phrase hard to follow."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Expand: die im Ausland erworbenen Kenntnisse"
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> die Kenntnisse, die im Ausland erworben wurden"
+        }
+      ]
+    },
+    {
+      "title": "Funktionsverbgefüge: noun-verb combinations",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Formal German often expresses an action through a noun plus a relatively general verb. Learn the whole combination with its article and preposition. Some pairs distinguish an active cause from a resulting state."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Decision",
+              "eine Entscheidung treffen"
+            ],
+            [
+              "Application / implementation",
+              "zur Anwendung kommen / etwas zur Anwendung bringen"
+            ],
+            [
+              "Questioning",
+              "etwas in Frage stellen"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Der Ausschuss trifft morgen eine Entscheidung.",
+          "en": "The committee will make a decision tomorrow."
+        },
+        {
+          "type": "example",
+          "de": "Die neue Regelung kommt ab Mai zur Anwendung.",
+          "en": "The new regulation will be applied from May."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "These are conventional combinations, not freely interchangeable nouns and verbs. A simpler verb such as entscheiden is often clearer when no special nuance is needed."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Rewrite with a verb: Wir treffen eine Entscheidung."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Wir entscheiden."
+        }
+      ]
+    },
+    {
+      "title": "Connectors for precise argumentation",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Advanced connectors distinguish conditions, restrictions and alternatives. Sofern means provided that, es sei denn introduces an exception, and zumal introduces an additional reason that strengthens the argument."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Condition",
+              "sofern die Angaben stimmen"
+            ],
+            [
+              "Exception",
+              "es sei denn, es regnet"
+            ],
+            [
+              "Additional reason",
+              "zumal die Zeit knapp ist"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Wir stimmen zu, sofern die Kosten begrenzt bleiben.",
+          "en": "We agree, provided that the costs remain limited."
+        },
+        {
+          "type": "example",
+          "de": "Ich komme, es sei denn, ich muss arbeiten.",
+          "en": "I will come unless I have to work."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "After es sei denn, a clause without dass normally has main-clause order. After sofern and zumal, use subordinate verb-final order."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Add a condition with sofern: Wir liefern. Die Ware ist verfügbar."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Wir liefern, sofern die Ware verfügbar ist."
+        }
+      ]
+    },
+    {
+      "title": "Word order and information structure",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "German word order helps distinguish a topic from new or contrastive information. One constituent normally occupies the position before the finite verb in a declarative main clause. Short known pronouns tend to come early; longer or new information often comes later."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Neutral starting point",
+              "Ich habe ihr das Buch gegeben."
+            ],
+            [
+              "Object as topic",
+              "Das Buch habe ich ihr gegeben."
+            ],
+            [
+              "Time as topic",
+              "Gestern habe ich ihr das Buch gegeben."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Den Bericht habe ich schon gelesen.",
+          "en": "I have already read the report."
+        },
+        {
+          "type": "example",
+          "de": "Ihr habe ich das Buch gegeben, nicht ihm.",
+          "en": "I gave the book to her, not to him."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "The first position is one constituent, not necessarily one word. Standard patterns such as time-cause-manner-place are useful tendencies, not rules that override context and emphasis."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Front gestern: Ich habe gestern den Bericht geschrieben."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Gestern habe ich den Bericht geschrieben. The finite verb stays second."
+        }
+      ]
+    },
+    {
+      "title": "Focus particles and the scope of negation",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Focus particles such as nur, auch and sogar associate with a focused element. Their position and spoken stress affect interpretation. Negation likewise has scope: denying an entire proposition differs from contrasting one constituent."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Only the person",
+              "Nur Anna hat den Bericht gelesen."
+            ],
+            [
+              "Only the object",
+              "Anna hat nur den Bericht gelesen."
+            ],
+            [
+              "Contrast",
+              "nicht heute, sondern morgen"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Sogar Paul hat die Aufgabe gelöst.",
+          "en": "Even Paul solved the task."
+        },
+        {
+          "type": "example",
+          "de": "Ich habe nicht den Bericht kritisiert, sondern die Methode.",
+          "en": "I criticised not the report but the method."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Written position alone may not settle every possible reading; intonation and context also matter. Place the particle near the intended focus when clarity matters."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Express that Anna read the report and nothing else."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Anna hat nur den Bericht gelesen."
+        }
+      ]
+    },
+    {
+      "title": "Verb clusters and the Ersatzinfinitiv",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "In compound past forms, a modal verb governing another infinitive normally appears as an infinitive instead of a participle. With this cluster in a subordinate clause, finite haben normally precedes the infinitives."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Main clause",
+              "Sie hat arbeiten müssen."
+            ],
+            [
+              "Subordinate clause",
+              "weil sie hat arbeiten müssen"
+            ],
+            [
+              "Unreal past",
+              "Sie hätte arbeiten müssen."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Ich habe gestern länger bleiben müssen.",
+          "en": "I had to stay longer yesterday."
+        },
+        {
+          "type": "example",
+          "de": "Er sagt, dass er nicht hat kommen können.",
+          "en": "He says that he was unable to come."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Do not write hat arbeiten gemusst in this construction. Without another infinitive, a modal can have an ordinary participle, as in Das habe ich nicht gewollt."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Put in Perfekt: Sie muss warten."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Sie hat warten müssen."
+        }
+      ]
+    },
+    {
+      "title": "Unreal comparisons and wishes",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Als ob introduces an unreal or distanced comparison with verb-final order. A comparison with als alone places the finite verb immediately after als. Wishes can use wenn with doch or nur, or an initial Konjunktiv II verb."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Comparison",
+              "als ob er alles wüsste"
+            ],
+            [
+              "Without ob",
+              "als wüsste er alles"
+            ],
+            [
+              "Unreal wish",
+              "Hätte ich doch mehr Zeit!"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Sie tut so, als ob sie nichts gehört hätte.",
+          "en": "She acts as if she had heard nothing."
+        },
+        {
+          "type": "example",
+          "de": "Wäre ich nur früher losgefahren!",
+          "en": "If only I had set off earlier!"
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Present comparison and earlier event require different forms: wüsste versus gehört hätte. Avoid treating all Konjunktiv II clauses as past tense."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Rewrite without ob: Er spricht, als ob er der Chef wäre."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Er spricht, als wäre er der Chef."
+        }
+      ]
+    },
+    {
+      "title": "Correlates: es, darauf and daran",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "A correlate anticipates or refers to a clause and fulfils a role required by the main construction. Es may anticipate a subject or object clause; a da-compound retains a verb's required preposition."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Anticipated subject",
+              "Es freut mich, dass du kommst."
+            ],
+            [
+              "Prepositional correlate",
+              "Ich bestehe darauf, dass ..."
+            ],
+            [
+              "Fronted clause",
+              "Dass du kommst, freut mich."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Ich rechne damit, dass der Zug verspätet ist.",
+          "en": "I expect the train to be late."
+        },
+        {
+          "type": "example",
+          "de": "Es ist unklar, ob der Plan funktioniert.",
+          "en": "It is unclear whether the plan will work."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Do not drop a required preposition merely because its complement is a clause. Whether a correlate is optional depends on the verb and construction."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Complete: Ich freue mich ___, dass du kommst."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Ich freue mich darüber, dass du kommst."
+        }
+      ]
+    },
+    {
+      "title": "Genitive relatives: dessen and deren",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Dessen and deren connect possession or association within a relative clause. Their form depends on the antecedent: dessen for masculine/neuter singular and deren for feminine singular or plural. The possessed noun still has its own role in the clause."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Masculine / neuter antecedent",
+              "der Mann, dessen Tochter ..."
+            ],
+            [
+              "Feminine antecedent",
+              "die Frau, deren Sohn ..."
+            ],
+            [
+              "Plural antecedent",
+              "die Leute, deren Haus ..."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Die Autorin, deren Buch ich lese, kommt morgen.",
+          "en": "The author whose book I am reading is coming tomorrow."
+        },
+        {
+          "type": "example",
+          "de": "Das ist der Mann, mit dessen Tochter ich arbeite.",
+          "en": "That is the man whose daughter I work with."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Dessen does not change to agree with Tochter. The preposition mit governs the case of the larger phrase mit dessen Tochter."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Complete: die Kinder, ___ Eltern hier wohnen"
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> die Kinder, deren Eltern hier wohnen"
+        }
+      ]
+    }
+  ],
+  "C2": [
+    {
+      "title": "Reported discourse: attribution across a paragraph",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "In extended reporting, a reporting frame can govern several following sentences. Consistent Konjunktiv helps readers distinguish the source's account from the writer's own assertion. Reintroduce the source when the perspective would otherwise become unclear."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Source frame",
+              "Die Behörde teilte mit, ..."
+            ],
+            [
+              "Continuation",
+              "Die Lage sei stabil. Es gebe keine Gefahr."
+            ],
+            [
+              "Writer's assertion",
+              "Unabhängige Daten liegen noch nicht vor."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Die Firma erklärte, die Anlage sei sicher. Alle Prüfungen seien abgeschlossen.",
+          "en": "The company stated that the facility was safe. All inspections had been completed, it said."
+        },
+        {
+          "type": "example",
+          "de": "Ob diese Angaben zutreffen, ist noch unklar.",
+          "en": "Whether this information is correct remains unclear."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Konjunktiv marks reporting but does not identify a source by itself. A switch to indicative may change the perceived voice; make that shift explicit in sensitive factual writing."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Add a second reported sentence: Der Sprecher erklärte, es gebe keine Verzögerung. Alle Termine ..."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Alle Termine würden eingehalten. The replacement form keeps the statement within the reported account."
+        }
+      ]
+    },
+    {
+      "title": "Mixed-time counterfactuals",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "A counterfactual condition and its consequence need not refer to the same time. A past action can have an imagined present consequence. Use explicit time expressions to make each reference point clear instead of mechanically copying the same tense into both clauses."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Past condition",
+              "Wenn ich damals angenommen hätte, ..."
+            ],
+            [
+              "Present result",
+              "... wäre ich jetzt in Berlin."
+            ],
+            [
+              "Present condition, past result",
+              "Wenn ich nicht so vergesslich wäre, hätte ich gestern angerufen."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Wenn sie früher gespart hätte, hätte sie heute weniger Sorgen.",
+          "en": "If she had saved earlier, she would have fewer worries today."
+        },
+        {
+          "type": "example",
+          "de": "Hätten wir den Zug genommen, wären wir jetzt schon dort.",
+          "en": "If we had taken the train, we would already be there now."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Hätte can be an auxiliary marking an unreal past or a lexical verb meaning would have in the present. Identify the full verb phrase and time adverbials."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Complete: Wenn ich gestern früher eingeschlafen wäre, ___ ich jetzt nicht so müde."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Wenn ich gestern früher eingeschlafen wäre, wäre ich jetzt nicht so müde."
+        }
+      ]
+    },
+    {
+      "title": "Concessive clauses without ordinary wenn",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Formal and literary German can express concession through an initial verb or through a wh-expression plus auch/immer. These patterns present the main claim as valid regardless of the concession. They require attention to clause structure and register."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Initial verb",
+              "Sei es auch schwierig, ..."
+            ],
+            [
+              "Regardless of degree",
+              "So schwierig es auch ist, ..."
+            ],
+            [
+              "Regardless of choice",
+              "Was immer geschieht, ..."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "So überzeugend die Erklärung auch klingt, sie beantwortet nicht alle Fragen.",
+          "en": "However convincing the explanation sounds, it does not answer every question."
+        },
+        {
+          "type": "example",
+          "de": "Was immer geschieht, wir halten zusammen.",
+          "en": "Whatever happens, we will stick together."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "These constructions can sound formal or emphatic. In So schwierig es auch ist, the verb is final; do not imitate a main clause after the opening adjective."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Reformulate: Auch wenn es sehr teuer ist, wir brauchen es."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> So teuer es auch ist, wir brauchen es."
+        }
+      ]
+    },
+    {
+      "title": "Modal particles and interpersonal meaning",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Modal particles such as doch, ja, eben and wohl can signal assumptions, expectations or a stance toward the listener. They are often unstressed and cannot be translated with one fixed English word. Distinguish this use from stressed adverbs or connectors with the same spelling."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Shared knowledge",
+              "Das weißt du ja."
+            ],
+            [
+              "Reminder or encouragement",
+              "Komm doch mit!"
+            ],
+            [
+              "Tentative assessment",
+              "Das wird wohl stimmen."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Du hast doch morgen frei, oder?",
+          "en": "You have tomorrow off, don't you?"
+        },
+        {
+          "type": "example",
+          "de": "Dann müssen wir eben warten.",
+          "en": "Then we will just have to wait."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Tone and context can change the effect from friendly to impatient. Avoid inserting particles mechanically into formal reports or assuming doch always means but."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "What does ja contribute in Das ist ja interessant!?"
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> It can mark a newly noticed, surprising fact here. The effect is contextual; it is not a yes answer."
+        }
+      ]
+    },
+    {
+      "title": "Quantifiers, negation and logical scope",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "The scope of a quantifier or negation affects the claim being made. Nicht alle denies that every member satisfies a condition; keiner excludes every member. Contrastive phrasing and explicit reformulation help prevent a stronger claim than the evidence supports."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Partial negation",
+              "Nicht alle Anträge wurden genehmigt."
+            ],
+            [
+              "Total exclusion",
+              "Kein Antrag wurde genehmigt."
+            ],
+            [
+              "Not necessarily",
+              "Das muss nicht falsch sein."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Nicht jeder Fehler führt zu einem Ausfall.",
+          "en": "Not every error leads to a failure."
+        },
+        {
+          "type": "example",
+          "de": "Keiner der Vorschläge wurde angenommen.",
+          "en": "None of the proposals was accepted."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Nicht alle does not by itself guarantee that some were accepted; it only rules out all being accepted. Avoid treating nicht müssen as a straightforward impossibility claim."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Do these mean the same: Nicht alle kamen. / Niemand kam.?"
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> No. Niemand kam says nobody came. Nicht alle kamen only says that the full group did not come."
+        }
+      ]
+    },
+    {
+      "title": "Long noun phrases: attachment and ambiguity",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "In dense formal noun phrases, several genitives, prepositional phrases and participles can compete for attachment. Identify the head noun first, then decide which modifier belongs to which noun. Where two readings remain possible, rewriting is better than guessing."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Potential ambiguity",
+              "die Untersuchung der Ärztin"
+            ],
+            [
+              "Actor made explicit",
+              "die von der Ärztin durchgeführte Untersuchung"
+            ],
+            [
+              "Person examined",
+              "die Untersuchung, bei der die Ärztin untersucht wurde"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Die Untersuchung der Ärztin dauerte eine Stunde.",
+          "en": "The doctor's examination / the examination of the doctor lasted an hour."
+        },
+        {
+          "type": "example",
+          "de": "Die Ärztin führte die Untersuchung innerhalb einer Stunde durch.",
+          "en": "The doctor carried out the examination within an hour."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "A genitive does not always identify an owner. With action nouns it may identify the actor or the affected participant. Context may help, but the form alone can remain ambiguous."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Rewrite to make the actor explicit: die Kritik des Ausschusses"
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> die vom Ausschuss geäußerte Kritik"
+        }
+      ]
+    },
+    {
+      "title": "Relative clauses referring to a whole proposition",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "A relative continuation can refer to the preceding situation as a whole rather than to a single noun. Was is common for this function. Wo-compounds preserve a required preposition when referring back to a fact or event."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Whole proposition",
+              "..., was mich überrascht."
+            ],
+            [
+              "Cause of pleasure",
+              "..., worüber ich mich freue."
+            ],
+            [
+              "Prepositional reference",
+              "..., womit niemand gerechnet hatte."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Der Zug kam pünktlich, was uns überraschte.",
+          "en": "The train arrived on time, which surprised us."
+        },
+        {
+          "type": "example",
+          "de": "Sie sagte sofort zu, womit ich nicht gerechnet hatte.",
+          "en": "She agreed immediately, which I had not expected."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "Was here refers to the preceding fact, not necessarily to the nearest noun. If the reference could be unclear, use a new sentence with Diese Entscheidung or Dieser Umstand."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Join with worüber: Sie hat bestanden. Ich freue mich darüber."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Sie hat bestanden, worüber ich mich freue."
+        }
+      ]
+    },
+    {
+      "title": "Ellipsis and parallel coordination",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Coordinated clauses can omit material recoverable from the other clause. Parallel structure makes the omitted words easy to reconstruct. In careful writing, avoid ellipsis when it hides a change in grammatical role, agreement or meaning."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Repeated predicate omitted",
+              "Anna liest den Bericht, Paul die Anlage."
+            ],
+            [
+              "Shared subject",
+              "Sie öffnete die Datei und prüfte die Zahlen."
+            ],
+            [
+              "Restore for clarity",
+              "Paul liest die Anlage."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Die erste Gruppe arbeitet morgens, die zweite abends.",
+          "en": "The first group works in the morning, the second in the evening."
+        },
+        {
+          "type": "example",
+          "de": "Er hat den Text gelesen und die Fehler markiert.",
+          "en": "He has read the text and marked the errors."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "An omitted element must be recoverable, not merely imaginable. Keep coordinated structures grammatically compatible; repeat the full clause if a shared word would need a different form."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Restore the omitted verb: Maria bestellte Tee, Jonas Kaffee."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Maria bestellte Tee, Jonas bestellte Kaffee."
+        }
+      ]
+    },
+    {
+      "title": "Fronting and the Nachfeld in complex sentences",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "German can place a long clause after the right part of the verbal bracket, in the Nachfeld. This reduces the load inside the sentence. Fronting, by contrast, establishes a topic or contrast before the finite verb. Use both to control readability."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Nachfeld",
+              "Sie hat erklärt, warum sie absagt."
+            ],
+            [
+              "Topic clause first",
+              "Warum sie absagt, hat sie erklärt."
+            ],
+            [
+              "Heavy comparison after bracket",
+              "Er hat länger gewartet, als wir erwartet hatten."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Ich habe nicht damit gerechnet, dass so viele Menschen kommen.",
+          "en": "I had not expected so many people to come."
+        },
+        {
+          "type": "example",
+          "de": "Dass der Plan scheitern könnte, hatte niemand bedacht.",
+          "en": "Nobody had considered that the plan might fail."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "A heavy clause after the bracket is not a licence to put ordinary complements anywhere. Preserve the grammatical relationship and required correlates such as damit."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Front the content clause: Sie hat gesagt, dass sie kommt."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Dass sie kommt, hat sie gesagt."
+        }
+      ]
+    },
+    {
+      "title": "Formal conditions, exceptions and limitations",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Legal and administrative writing often compresses conditions into prepositional phrases. Bei can mark a condition; mangels gives absence as a reason; vorbehaltlich marks a reservation. Expand them into clauses when precision or accessibility benefits."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Conditional phrase",
+              "bei rechtzeitiger Zahlung"
+            ],
+            [
+              "Absence as reason",
+              "mangels ausreichender Belege"
+            ],
+            [
+              "Reservation",
+              "vorbehaltlich der Zustimmung"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Bei rechtzeitiger Zahlung entfällt die Gebühr.",
+          "en": "If payment is made on time, the fee does not apply."
+        },
+        {
+          "type": "example",
+          "de": "Die Entscheidung gilt vorbehaltlich der Zustimmung des Ausschusses.",
+          "en": "The decision is subject to the committee's approval."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "These phrases differ in meaning, not just style. Vorbehaltlich signals a reservation rather than an unconditional promise. Keep the genitive after mangels and vorbehaltlich in this formal pattern."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Expand: Bei einer Änderung informieren wir Sie."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Wenn sich etwas ändert, informieren wir Sie."
+        }
+      ]
+    },
+    {
+      "title": "Futur II: completion and retrospective inference",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Futur II uses werden plus a perfect infinitive. It can present an action as completed by a future reference point or express an assumption about an earlier event. Time adverbials and the situation distinguish the readings."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "With haben",
+              "wird gearbeitet haben"
+            ],
+            [
+              "With sein",
+              "wird angekommen sein"
+            ],
+            [
+              "Future deadline",
+              "Bis morgen wird sie angekommen sein."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Bis Freitag werden wir den Bericht fertiggestellt haben.",
+          "en": "By Friday we will have completed the report."
+        },
+        {
+          "type": "example",
+          "de": "Er wird die Nachricht wohl übersehen haben.",
+          "en": "He probably overlooked the message."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "The form does not force a future interpretation. For an assumption about a past event, translating mechanically as will have may sound unnatural in English."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Identify the reading: Sie ist nicht da; sie wird schon gegangen sein."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> This is an inference about an earlier departure, not a prediction of a future departure."
+        }
+      ]
+    },
+    {
+      "title": "Editing for register, precision and agency",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Advanced control means choosing a structure that fits the purpose, not making every sentence longer. Compare passive and active voice, nominal and verbal style, and degrees of commitment. Preserve who did what and how certain the claim is when reformulating."
+        },
+        {
+          "type": "heading",
+          "text": "Forms and patterns"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Pattern",
+            "Use / form"
+          ],
+          "rows": [
+            [
+              "Named actor",
+              "Die Leitung prüft den Antrag."
+            ],
+            [
+              "Process focus",
+              "Der Antrag wird geprüft."
+            ],
+            [
+              "Cautious interpretation",
+              "Die Ergebnisse legen nahe, dass ..."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Examples"
+        },
+        {
+          "type": "example",
+          "de": "Die Ergebnisse legen nahe, dass die Maßnahme wirkt.",
+          "en": "The results suggest that the measure works."
+        },
+        {
+          "type": "example",
+          "de": "Die Ergebnisse beweisen, dass die Maßnahme wirkt.",
+          "en": "The results prove that the measure works."
+        },
+        {
+          "type": "heading",
+          "text": "Watch out"
+        },
+        {
+          "type": "text",
+          "text": "The two example verbs make different evidential claims. A stylistic rewrite must not silently turn a possibility into a fact or erase an actor whose responsibility matters."
+        },
+        {
+          "type": "heading",
+          "text": "Try it"
+        },
+        {
+          "type": "text",
+          "text": "Make the actor explicit: Nach Prüfung des Antrags erfolgt eine Rückmeldung durch das Team."
+        },
+        {
+          "type": "text",
+          "text": "<b>Check:</b> Nachdem das Team den Antrag geprüft hat, gibt es eine Rückmeldung. The team remains the actor in both actions."
+        }
+      ]
+    }
+  ]
+}
