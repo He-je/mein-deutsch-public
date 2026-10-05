@@ -1,6 +1,6 @@
 {
   "name": "mein-deutsch-public",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "private": true,
   "type": "module",
   "scripts": {
@@ -10,7 +10,13 @@
     "test:grammar": "node --test tests/grammar.browser.cjs",
     "test:vocabulary": "node --test tests/vocabulary.browser.cjs",
     "test:audio": "node --test tests/audio-settings.browser.cjs",
+    "stage:capacitor": "node capacitor/scripts/stage.mjs",
+    "test:capacitor": "npm run stage:capacitor && node --test capacitor/tests/*.test.mjs && node capacitor/tests/roundtrip.mjs",
     "test:browser": "node --test --test-concurrency=1 tests/*.browser.cjs"
+  },
+  "dependencies": {
+    "@capacitor/android": "8.5.2",
+    "@capacitor/core": "8.5.2"
   },
   "engines": {
     "node": ">=22"

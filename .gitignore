@@ -17,3 +17,6 @@ study-files/
 *backup*.json
 library.json
 mein-deutsch-study.json
+
+.gradle/
+local.properties

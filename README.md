@@ -4,6 +4,12 @@ A local-first German study app with sentence explanations, vocabulary review,
 speech controls and an A1-C2 grammar library. This public source edition includes
 an original demonstration text and the existing Android host.
 
+The reviewed Capacitor 1.0.7 Android implementation is included under `capacitor/`.
+It uses asynchronous native storage, file dialogs, clipboard and speech services.
+The public build uses the separate application ID `de.meindeutsch.publicapp` and
+an original demo. No personal APKs, backups or signing keys are distributed.
+The earlier custom host remains as the migration input and regression reference.
+
 ## Try the browser preview
 
 Install Node.js 22 or newer, then run from this folder:
@@ -36,7 +42,8 @@ physical-device behavior cannot be validated by the browser preview.
 | Path | Purpose |
 | --- | --- |
 | `app/` | Web interface, import logic, grammar and original demo |
-| `android/` | Custom Android WebView host, storage and speech bridge |
+| `android/` | Legacy 1.0.6 host retained as a migration reference |
+| `capacitor/` | Reviewed 1.0.7 plugins, portable staging/build and migration tests |
 | `tests/` | Core and browser regression tests with original fixtures |
 | `import-kit/` | Study format, reusable prompt and sample JSON |
 | `docs/` | User guide, architecture, build instructions and publication scope |
@@ -48,9 +55,11 @@ and [Public scope](docs/PUBLIC_SCOPE.md). See the dated
 
 ## Status
 
-This source baseline is version 1.0.6. It is a portfolio/development edition, not a
-new Android release. No installer or signing key is distributed here. Capacitor
-experiments, iPhone support, cloud services and automatic sync are not included.
+This source edition includes the accepted Android 1.0.7 migration. See
+[Development](docs/DEVELOPMENT.md) for the separate public build. iPhone support,
+cloud services and automatic synchronization are not implemented. The personal
+production update was confirmed by its user; the public application ID has not
+been tested on a physical phone.
 Grammar levels are editorial study groupings, not a certified course.
 
 This is an AI-assisted personal project. AI tools assisted code, study content and

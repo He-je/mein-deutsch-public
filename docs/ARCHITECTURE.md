@@ -21,3 +21,17 @@ ChatGPT can prepare study JSON outside the application using the supplied prompt
 There is no embedded LLM API, account server, cloud database or automatic sync.
 Device voice availability varies. Browser tests mock native calls and cannot prove
 Android lifecycle, audio output, installation or upgrade behavior.
+
+## Capacitor migration (1.0.7)
+
+`capacitor/scripts/stage.mjs` applies the shared async storage and speech overlays
+to the legacy UI. `StudyStoragePlugin` serializes atomic library reads/writes and
+reports picker/export cancellation separately from success. `StudySpeechPlugin`
+uses Android TTS lifecycle callbacks with generation/token guards; the JavaScript
+controller orders commands and cancels stale queued playback. `MainActivity`
+registers the plugins and handles native back navigation. The legacy JavaScript
+interface is removed from the staged UI.
+
+The public app uses its own application ID and private storage. The unchanged
+WebView hostname and vocabulary preferences support the production migration
+strategy; the public ID does not read or upgrade the user's personal app data.

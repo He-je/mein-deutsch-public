@@ -15,7 +15,8 @@ materials are appropriate to distribute.
 | Personal articles, screenshots, exports and review history | Excluded |
 | Screenshot-derived original sample | Replaced; no source-publication rights were established |
 | Signing keys, secrets, archives, APKs and generated output | Excluded |
-| Experimental migration work and internal planning | Deferred |
+| Accepted Capacitor 1.0.7 runtime and portable public build | Included after source/dependency review; separate public app ID |
+| Historical test delivery packages, private release procedures and internal planning | Excluded |
 | Private repository history and personal machine paths | Excluded |
 
 The code is maintained from a canonical development checkout using an explicit

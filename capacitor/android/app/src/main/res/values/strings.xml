@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Mein Deutsch Public</string>
+    <string name="title_activity_main">Mein Deutsch Public</string>
+    <string name="package_name">de.meindeutsch.publicapp</string>
+    <string name="custom_url_scheme">de.meindeutsch.publicapp</string>
+</resources>
